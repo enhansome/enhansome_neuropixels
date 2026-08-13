@@ -1,0 +1,644 @@
+{
+  "items": [
+    {
+      "description": "Images and SVGs of probes can be found in this folder",
+      "items": [],
+      "title": "Images and SVGs of probes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Some tips to seperate shanks from each other",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-16T12:58:30Z",
+            "owner": "Julie-Fabre",
+            "repo": "awesome_neuropixels",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sharpening probes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-12-15T14:07:32Z",
+            "owner": "cortex-lab",
+            "repo": "neuropixels",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cleaning and caring for probes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-12-15T14:07:32Z",
+            "owner": "cortex-lab",
+            "repo": "neuropixels",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slack thread about how to store probes",
+          "description": ", and files for a wall-mounted enclosure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-06T19:13:03Z",
+            "owner": "MarinManuel",
+            "repo": "NeuropixelsEnclosure",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Probe setup, care and sharpening"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Some tips to reduce noise",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-16T12:58:30Z",
+            "owner": "Julie-Fabre",
+            "repo": "awesome_neuropixels",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synchronizing data streams",
+          "description": ", optional Arduino code for applying external sync pulses here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-12-15T14:07:32Z",
+            "owner": "cortex-lab",
+            "repo": "neuropixels",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "Data acquisition"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Allen Institute pipeline",
+          "description": ", fork specifically tailored to spikeGLX data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-18T22:52:23Z",
+            "owner": "AllenInstitute",
+            "repo": "ecephys_spike_sorting",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "+ Guido Meijer's PowerPixels pipeline",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T13:15:45Z",
+            "owner": "NeuroNetMem",
+            "repo": "PowerPixelsPipeline",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "General frameworks that incorporate many of the steps below"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Ephys: / matlab",
+          "description": ", python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-09-25T21:06:40Z",
+            "owner": "open-ephys",
+            "repo": "open-ephys-matlab-tools",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "SpikeGLX:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "/ Functions to read outputs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "MATLAB",
+                "last_commit": "2026-06-24T23:59:27Z",
+                "owner": "jenniferColonell",
+                "repo": "SpikeGLX_Datafile_Tools",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "/ Getting a channel map for spike-sorting based on your IMRO",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-07-19T17:50:18Z",
+                "owner": "jenniferColonell",
+                "repo": "SGLXMetaToCoords",
+                "stars": 13
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Applying a phase shift to Neuropixels channels (to correct asynchronous sampling across ADCs):",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-05-05T20:57:41Z",
+                "owner": "billkarsh",
+                "repo": "CatGT",
+                "stars": 16
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Common-average-referencing (gets rid of noise):",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CAR",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "MATLAB",
+                "last_commit": "2024-02-05T06:28:10Z",
+                "owner": "cortex-lab",
+                "repo": "spikes",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CatGT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-05-05T20:57:41Z",
+                "owner": "billkarsh",
+                "repo": "CatGT",
+                "stars": 16
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Data compression/decompression:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "decompression",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-25T19:20:22Z",
+                "owner": "Julie-Fabre",
+                "repo": "bombcell",
+                "stars": 249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compression/decompression",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-03-18T10:46:04Z",
+                "owner": "int-brain-lab",
+                "repo": "mtscomp",
+                "stars": 46
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Data preprocessing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kilosort 4",
+          "description": ", paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T20:33:25Z",
+            "owner": "MouseLand",
+            "repo": "Kilosort",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kilosort 1/2/2.5/3 (archived)",
+          "description": ", Kilosort 1 paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T20:33:25Z",
+            "owner": "MouseLand",
+            "repo": "Kilosort",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, github thread",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-27T20:33:25Z",
+            "owner": "MouseLand",
+            "repo": "Kilosort",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpikeAgent",
+          "description": "(Spike sorting AI agent), paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T14:42:32Z",
+            "owner": "SpikeAgent",
+            "repo": "SpikeAgent",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python port of Kilosort 2.5",
+          "description": ", white paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T12:00:42Z",
+            "owner": "int-brain-lab",
+            "repo": "ibl-sorter",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Spike-sorting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Manual curation GUI: Phy",
+          "description": ", docs. Example workflow here, Video demo here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T18:43:23Z",
+            "owner": "cortex-lab",
+            "repo": "phy",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "/ Bombcell: automated quality control and metrics",
+          "description": ", wiki, talk at the annual Neuropixels course about quality control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-25T19:20:22Z",
+            "owner": "Julie-Fabre",
+            "repo": "bombcell",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpikeAgent",
+          "description": "(Spike sorting AI agent), paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T06:20:52Z",
+            "owner": "LiuLab-Bioelectronics-Harvard",
+            "repo": "SpikeAgent",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "/ IBL quality metrics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-08-07T23:51:59Z",
+            "owner": "SteinmetzLab",
+            "repo": "qualityMetrics",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Merging neurons:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "/ UnitMatch",
+              "description": ", paper here",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-11T17:46:07Z",
+                "owner": "EnnyvanBeest",
+                "repo": "UnitMatch",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SLAy",
+              "description": ", paper here",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-07T21:51:46Z",
+                "owner": "saikoukunt",
+                "repo": "SLAy",
+                "stars": 15
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Quality control"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "/ Striatal cell types: Bombcell",
+          "description": ", wiki",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-25T19:20:22Z",
+            "owner": "Julie-Fabre",
+            "repo": "bombcell",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BCIAgent",
+          "description": ", paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-18T03:09:31Z",
+            "owner": "LiuLab-Bioelectronics-Harvard",
+            "repo": "BCI-Agent",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Classifying cell types"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "/ UnitMatch",
+          "description": ", paper here",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T17:46:07Z",
+            "owner": "EnnyvanBeest",
+            "repo": "UnitMatch",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoSort",
+          "description": ", paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-10T13:17:23Z",
+            "owner": "LiuLab-Bioelectronics-Harvard",
+            "repo": "AutoSort",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neuron_Tracking",
+          "description": ", paper here",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-10-18T07:38:05Z",
+            "owner": "AugustineY07",
+            "repo": "Neuron_Tracking",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Tracking cells over days"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NeuroPyxels",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-10T18:23:22Z",
+            "owner": "m-beau",
+            "repo": "NeuroPyxels",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spikes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-02-05T06:28:10Z",
+            "owner": "cortex-lab",
+            "repo": "spikes",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neuropixel-utils",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2025-05-13T17:07:51Z",
+            "owner": "djoshea",
+            "repo": "neuropixel-utils",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Loading and plotting data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "For 3D histology (cleared whole brains, brainsaw-ed brains) and/or classical slice-by-slice histology (2D) DeepSlice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T17:36:47Z",
+            "owner": "PolarBean",
+            "repo": "DeepSlice",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "For classical slice-by-slice histology (2D) AP histology",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-07-31T14:33:06Z",
+            "owner": "petersaj",
+            "repo": "AP_histology",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HERBS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-30T13:15:31Z",
+            "owner": "Whitlock-Group",
+            "repo": "HERBS",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Histology"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:36.725Z",
+    "original_repository": "Julie-Fabre/awesome_neuropixels",
+    "original_repository_sha": "399f81f8770b2be27915c10e4ee835e72424704a",
+    "enhanced_repository": "enhansome/enhansome_neuropixels",
+    "enhanced_repository_description": null,
+    "title": "Awesome Neuropixels with stars"
+  }
+}
