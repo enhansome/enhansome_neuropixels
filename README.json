@@ -429,7 +429,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-11T17:46:07Z",
+                "last_commit": "2026-08-13T11:17:48Z",
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
                 "stars": 79
@@ -499,7 +499,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-11T17:46:07Z",
+            "last_commit": "2026-08-13T11:17:48Z",
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
             "stars": 79
@@ -634,7 +634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:16:36.725Z",
+    "last_updated": "2026-08-14T04:01:43.891Z",
     "original_repository": "Julie-Fabre/awesome_neuropixels",
     "original_repository_sha": "399f81f8770b2be27915c10e4ee835e72424704a",
     "enhanced_repository": "enhansome/enhansome_neuropixels",
