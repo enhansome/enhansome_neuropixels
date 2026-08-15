@@ -368,7 +368,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T18:43:23Z",
+            "last_commit": "2026-08-14T14:50:36Z",
             "owner": "cortex-lab",
             "repo": "phy",
             "stars": 425
@@ -429,7 +429,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-13T11:17:48Z",
+                "last_commit": "2026-08-14T15:40:52Z",
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
                 "stars": 79
@@ -499,7 +499,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T11:17:48Z",
+            "last_commit": "2026-08-14T15:40:52Z",
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
             "stars": 79
@@ -626,7 +626,7 @@
             "last_commit": "2024-08-30T13:15:31Z",
             "owner": "Whitlock-Group",
             "repo": "HERBS",
-            "stars": 56
+            "stars": 57
           }
         }
       ],
@@ -634,7 +634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:01:43.891Z",
+    "last_updated": "2026-08-15T02:46:29.682Z",
     "original_repository": "Julie-Fabre/awesome_neuropixels",
     "original_repository_sha": "399f81f8770b2be27915c10e4ee835e72424704a",
     "enhanced_repository": "enhansome/enhansome_neuropixels",
