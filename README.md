@@ -124,7 +124,7 @@ Non recoverable implants:
 * <img src="./images/python.svg" width="3%"> [Kilosort 4](https://github.com/MouseLand/Kilosort) ⭐ 623 | 🐛 14 | 🌐 Python | 📅 2026-04-27, [paper](https://www.nature.com/articles/s41592-024-02232-7)
 * <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases) ⭐ 623 | 🐛 14 | 🌐 Python | 📅 2026-04-27, [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
 * Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594) ⭐ 623 | 🐛 14 | 🌐 Python | 📅 2026-04-27.
-* <img src="./images/python.svg" width="3%"> [SpikeAgent](https://github.com/SpikeAgent/SpikeAgent) ⭐ 17 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-02 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
+* <img src="./images/python.svg" width="3%"> [SpikeAgent](https://github.com/SpikeAgent/SpikeAgent) ⭐ 18 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-02 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 * <img src="./images/python.svg" width="3%"> [Python port of Kilosort 2.5](https://github.com/int-brain-lab/pykilosort) ⭐ 13 | 🐛 9 | 🌐 Python | 📅 2026-06-23 , [white paper](https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3)
 
 ## Quality control
@@ -180,4 +180,4 @@ Non recoverable implants:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

@@ -337,7 +337,7 @@
             "last_commit": "2026-08-02T14:42:32Z",
             "owner": "SpikeAgent",
             "repo": "SpikeAgent",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -634,7 +634,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:54:46.213Z",
+    "last_updated": "2026-08-17T02:54:38.339Z",
     "original_repository": "Julie-Fabre/awesome_neuropixels",
     "original_repository_sha": "399f81f8770b2be27915c10e4ee835e72424704a",
     "enhanced_repository": "enhansome/enhansome_neuropixels",
