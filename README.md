@@ -125,7 +125,7 @@ Non recoverable implants:
 * <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases) ⭐ 623 | 🐛 14 | 🌐 Python | 📅 2026-04-27, [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
 * Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594) ⭐ 623 | 🐛 14 | 🌐 Python | 📅 2026-04-27.
 * <img src="./images/python.svg" width="3%"> [SpikeAgent](https://github.com/SpikeAgent/SpikeAgent) ⭐ 18 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-02 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
-* <img src="./images/python.svg" width="3%"> [Python port of Kilosort 2.5](https://github.com/int-brain-lab/pykilosort) ⭐ 13 | 🐛 9 | 🌐 Python | 📅 2026-06-23 , [white paper](https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3)
+* <img src="./images/python.svg" width="3%"> [Python port of Kilosort 2.5](https://github.com/int-brain-lab/pykilosort) ⭐ 13 | 🐛 10 | 🌐 Python | 📅 2026-06-23 , [white paper](https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3)
 
 ## Quality control
 
@@ -134,7 +134,7 @@ Non recoverable implants:
 * [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-12-05 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics) ⭐ 4 | 🐛 1 | 🌐 MATLAB | 📅 2026-08-07
 * Merging neurons:
-  * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 79 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-14, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
+  * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 79 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-08-17, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
   * <img src="./images/python.svg" width="3%"> [SLAy](https://github.com/saikoukunt/SLAy) ⭐ 15 | 🐛 5 | 🌐 Python | 📅 2026-05-07, paper [here](https://www.biorxiv.org/content/10.1101/2025.06.20.660590v1)
 
 ## Classifying cell types
@@ -147,7 +147,7 @@ Non recoverable implants:
 
 ## Tracking cells over days
 
-* <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 79 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-14, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
+* <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 79 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-08-17, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
 * <img src="./images/python.svg" width="3%"> [AutoSort](https://github.com/LiuLab-Bioelectronics-Harvard/AutoSort) ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-09-10, [paper](https://doi.org/10.1101/2024.10.14.618046)
 * <img src="./images/matlab.svg" width="3%"> [Neuron\_Tracking](https://github.com/AugustineY07/Neuron_Tracking) ⭐ 10 | 🐛 4 | 🌐 MATLAB | 📅 2024-10-18, paper [here](https://www.biorxiv.org/content/10.1101/2023.08.03.551724v2.full.pdf)
 
@@ -180,4 +180,4 @@ Non recoverable implants:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
