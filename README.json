@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Images and SVGs of probes can be found in this folder",
-      "items": [],
-      "title": "Images and SVGs of probes"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 700405996,
             "language": null,
             "last_commit": "2025-12-16T12:58:30Z",
             "owner": "Julie-Fabre",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90779159,
             "language": "MATLAB",
             "last_commit": "2024-12-15T14:07:32Z",
             "owner": "cortex-lab",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90779159,
             "language": "MATLAB",
             "last_commit": "2024-12-15T14:07:32Z",
             "owner": "cortex-lab",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 787680656,
             "language": null,
             "last_commit": "2025-08-06T19:13:03Z",
             "owner": "MarinManuel",
@@ -68,7 +67,7 @@
       "title": "Probe setup, care and sharpening"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -77,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 700405996,
             "language": null,
             "last_commit": "2025-12-16T12:58:30Z",
             "owner": "Julie-Fabre",
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90779159,
             "language": "MATLAB",
             "last_commit": "2024-12-15T14:07:32Z",
             "owner": "cortex-lab",
@@ -102,7 +103,7 @@
       "title": "Data acquisition"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -111,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132949362,
             "language": "Python",
             "last_commit": "2024-08-18T22:52:23Z",
             "owner": "AllenInstitute",
@@ -125,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727145366,
             "language": "Python",
             "last_commit": "2026-06-05T13:15:45Z",
             "owner": "NeuroNetMem",
@@ -136,7 +139,7 @@
       "title": "General frameworks that incorporate many of the steps below"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -145,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 344627639,
             "language": "MATLAB",
             "last_commit": "2024-09-25T21:06:40Z",
             "owner": "open-ephys",
@@ -164,6 +168,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 618183861,
                 "language": "MATLAB",
                 "last_commit": "2026-06-24T23:59:27Z",
                 "owner": "jenniferColonell",
@@ -178,6 +183,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 618178977,
                 "language": "Python",
                 "last_commit": "2023-07-19T17:50:18Z",
                 "owner": "jenniferColonell",
@@ -199,6 +205,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 458109231,
                 "language": "C++",
                 "last_commit": "2026-05-05T20:57:41Z",
                 "owner": "billkarsh",
@@ -220,6 +227,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 57906486,
                 "language": "MATLAB",
                 "last_commit": "2024-02-05T06:28:10Z",
                 "owner": "cortex-lab",
@@ -234,6 +242,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 458109231,
                 "language": "C++",
                 "last_commit": "2026-05-05T20:57:41Z",
                 "owner": "billkarsh",
@@ -255,11 +264,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 361686687,
                 "language": "Jupyter Notebook",
                 "last_commit": "2026-05-25T19:20:22Z",
                 "owner": "Julie-Fabre",
                 "repo": "bombcell",
-                "stars": 249
+                "stars": 250
               }
             },
             {
@@ -269,6 +279,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 204465064,
                 "language": "Python",
                 "last_commit": "2025-03-18T10:46:04Z",
                 "owner": "int-brain-lab",
@@ -282,7 +293,7 @@
       "title": "Data preprocessing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -291,6 +302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132137449,
             "language": "Python",
             "last_commit": "2026-04-27T20:33:25Z",
             "owner": "MouseLand",
@@ -305,6 +317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132137449,
             "language": "Python",
             "last_commit": "2026-04-27T20:33:25Z",
             "owner": "MouseLand",
@@ -319,6 +332,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132137449,
             "language": "Python",
             "last_commit": "2026-04-27T20:33:25Z",
             "owner": "MouseLand",
@@ -333,6 +347,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1078500279,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-02T14:42:32Z",
             "owner": "SpikeAgent",
@@ -347,6 +362,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 784290492,
             "language": "Python",
             "last_commit": "2026-06-23T12:00:42Z",
             "owner": "int-brain-lab",
@@ -358,7 +374,7 @@
       "title": "Spike-sorting"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -367,6 +383,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22426819,
             "language": "Python",
             "last_commit": "2026-08-14T14:50:36Z",
             "owner": "cortex-lab",
@@ -381,11 +398,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 361686687,
             "language": "Jupyter Notebook",
             "last_commit": "2026-05-25T19:20:22Z",
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 249
+            "stars": 250
           }
         },
         {
@@ -395,6 +413,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 930575943,
             "language": "Python",
             "last_commit": "2025-12-05T06:20:52Z",
             "owner": "LiuLab-Bioelectronics-Harvard",
@@ -409,6 +428,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 554929878,
             "language": "MATLAB",
             "last_commit": "2026-08-07T23:51:59Z",
             "owner": "SteinmetzLab",
@@ -428,8 +448,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 572104021,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-18T14:42:35Z",
+                "last_commit": "2026-08-19T11:53:27Z",
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
                 "stars": 79
@@ -442,6 +463,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 542195257,
                 "language": "Python",
                 "last_commit": "2026-05-07T21:51:46Z",
                 "owner": "saikoukunt",
@@ -455,7 +477,7 @@
       "title": "Quality control"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -464,11 +486,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 361686687,
             "language": "Jupyter Notebook",
             "last_commit": "2026-05-25T19:20:22Z",
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 249
+            "stars": 250
           }
         },
         {
@@ -478,6 +501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 989275255,
             "language": null,
             "last_commit": "2025-09-18T03:09:31Z",
             "owner": "LiuLab-Bioelectronics-Harvard",
@@ -489,7 +513,7 @@
       "title": "Classifying cell types"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -498,8 +522,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 572104021,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T14:42:35Z",
+            "last_commit": "2026-08-19T11:53:27Z",
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
             "stars": 79
@@ -512,6 +537,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541751004,
             "language": "Jupyter Notebook",
             "last_commit": "2025-09-10T13:17:23Z",
             "owner": "LiuLab-Bioelectronics-Harvard",
@@ -526,6 +552,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 427147462,
             "language": "MATLAB",
             "last_commit": "2024-10-18T07:38:05Z",
             "owner": "AugustineY07",
@@ -537,7 +564,7 @@
       "title": "Tracking cells over days"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -546,8 +573,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313917900,
             "language": "Python",
-            "last_commit": "2026-08-18T20:51:31Z",
+            "last_commit": "2026-08-19T14:47:40Z",
             "owner": "m-beau",
             "repo": "NeuroPyxels",
             "stars": 153
@@ -560,6 +588,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57906486,
             "language": "MATLAB",
             "last_commit": "2024-02-05T06:28:10Z",
             "owner": "cortex-lab",
@@ -574,6 +603,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146830890,
             "language": "MATLAB",
             "last_commit": "2025-05-13T17:07:51Z",
             "owner": "djoshea",
@@ -585,7 +615,7 @@
       "title": "Loading and plotting data"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -594,6 +624,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274122364,
             "language": "Python",
             "last_commit": "2026-06-08T17:36:47Z",
             "owner": "PolarBean",
@@ -608,6 +639,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223226910,
             "language": "MATLAB",
             "last_commit": "2026-07-31T14:33:06Z",
             "owner": "petersaj",
@@ -622,6 +654,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 504922113,
             "language": "Python",
             "last_commit": "2024-08-30T13:15:31Z",
             "owner": "Whitlock-Group",
@@ -634,8 +667,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:51:58.044Z",
+    "last_updated": "2026-08-20T02:51:58.738Z",
     "original_repository": "Julie-Fabre/awesome_neuropixels",
+    "original_repository_id": 700405996,
     "original_repository_sha": "399f81f8770b2be27915c10e4ee835e72424704a",
     "enhanced_repository": "enhansome/enhansome_neuropixels",
     "enhanced_repository_description": null,
