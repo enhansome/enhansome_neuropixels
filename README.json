@@ -15,7 +15,7 @@
             "last_commit": "2025-12-16T12:58:30Z",
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 144
+            "stars": 143
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-12-16T12:58:30Z",
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 144
+            "stars": 143
           }
         },
         {
@@ -605,7 +605,7 @@
             "archived": false,
             "id": 146830890,
             "language": "MATLAB",
-            "last_commit": "2025-05-13T17:07:51Z",
+            "last_commit": "2026-08-20T17:18:32Z",
             "owner": "djoshea",
             "repo": "neuropixel-utils",
             "stars": 47
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:51:58.738Z",
+    "last_updated": "2026-08-21T02:57:22.148Z",
     "original_repository": "Julie-Fabre/awesome_neuropixels",
     "original_repository_id": 700405996,
     "original_repository_sha": "399f81f8770b2be27915c10e4ee835e72424704a",
