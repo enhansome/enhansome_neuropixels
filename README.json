@@ -385,7 +385,7 @@
             "archived": false,
             "id": 22426819,
             "language": "Python",
-            "last_commit": "2026-08-14T14:50:36Z",
+            "last_commit": "2026-08-21T15:46:14Z",
             "owner": "cortex-lab",
             "repo": "phy",
             "stars": 425
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:57:22.148Z",
+    "last_updated": "2026-08-22T02:49:21.981Z",
     "original_repository": "Julie-Fabre/awesome_neuropixels",
     "original_repository_id": 700405996,
     "original_repository_sha": "399f81f8770b2be27915c10e4ee835e72424704a",
