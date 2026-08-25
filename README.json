@@ -200,7 +200,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "code",
+              "title": "billkarsh/CatGT",
               "description": null,
               "children": [],
               "repo_info": {
@@ -429,8 +429,8 @@
           "repo_info": {
             "archived": false,
             "id": 554929878,
-            "language": "MATLAB",
-            "last_commit": "2026-08-07T23:51:59Z",
+            "language": "Python",
+            "last_commit": "2026-08-25T05:51:08Z",
             "owner": "SteinmetzLab",
             "repo": "qualityMetrics",
             "stars": 4
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:53:08.136Z",
+    "last_updated": "2026-08-25T06:30:20.099Z",
     "original_repository": "Julie-Fabre/awesome_neuropixels",
     "original_repository_id": 700405996,
     "original_repository_sha": "399f81f8770b2be27915c10e4ee835e72424704a",
