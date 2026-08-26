@@ -15,7 +15,7 @@
             "last_commit": "2025-12-16T12:58:30Z",
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-12-16T12:58:30Z",
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 144
+            "stars": 145
           }
         },
         {
@@ -430,7 +430,7 @@
             "archived": false,
             "id": 554929878,
             "language": "Python",
-            "last_commit": "2026-08-25T05:51:08Z",
+            "last_commit": "2026-08-26T01:15:19Z",
             "owner": "SteinmetzLab",
             "repo": "qualityMetrics",
             "stars": 4
@@ -450,7 +450,7 @@
                 "archived": false,
                 "id": 572104021,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-24T13:55:52Z",
+                "last_commit": "2026-08-25T13:57:00Z",
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
                 "stars": 79
@@ -524,7 +524,7 @@
             "archived": false,
             "id": 572104021,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T13:55:52Z",
+            "last_commit": "2026-08-25T13:57:00Z",
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
             "stars": 79
@@ -667,7 +667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:30:20.099Z",
+    "last_updated": "2026-08-26T02:59:07.183Z",
     "original_repository": "Julie-Fabre/awesome_neuropixels",
     "original_repository_id": 700405996,
     "original_repository_sha": "399f81f8770b2be27915c10e4ee835e72424704a",
