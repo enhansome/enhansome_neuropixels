@@ -450,10 +450,10 @@
                 "archived": false,
                 "id": 572104021,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T13:57:00Z",
+                "last_commit": "2026-08-26T21:23:17Z",
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
-                "stars": 79
+                "stars": 80
               }
             },
             {
@@ -524,10 +524,10 @@
             "archived": false,
             "id": 572104021,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T13:57:00Z",
+            "last_commit": "2026-08-26T21:23:17Z",
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -629,7 +629,7 @@
             "last_commit": "2026-06-08T17:36:47Z",
             "owner": "PolarBean",
             "repo": "DeepSlice",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -641,7 +641,7 @@
             "archived": false,
             "id": 223226910,
             "language": "MATLAB",
-            "last_commit": "2026-07-31T14:33:06Z",
+            "last_commit": "2026-08-26T18:47:15Z",
             "owner": "petersaj",
             "repo": "AP_histology",
             "stars": 80
@@ -667,9 +667,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:59:07.183Z",
-    "original_repository": "Julie-Fabre/awesome_neuropixels",
-    "original_repository_id": 700405996,
+    "last_updated": "2026-08-27T12:11:55.394Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 700405996,
+      "language": null,
+      "last_commit": "2025-12-16T12:58:30Z",
+      "owner": "Julie-Fabre",
+      "repo": "awesome_neuropixels",
+      "stars": 145
+    },
     "original_repository_sha": "399f81f8770b2be27915c10e4ee835e72424704a",
     "enhanced_repository": "enhansome/enhansome_neuropixels",
     "enhanced_repository_description": null,
