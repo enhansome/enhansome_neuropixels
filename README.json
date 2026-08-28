@@ -16,7 +16,8 @@
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "cortex-lab",
             "repo": "neuropixels",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "cortex-lab",
             "repo": "neuropixels",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "MarinManuel",
             "repo": "NeuropixelsEnclosure",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         }
       ],
       "title": "Probe setup, care and sharpening"
@@ -82,7 +86,8 @@
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "cortex-lab",
             "repo": "neuropixels",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         }
       ],
       "title": "Data acquisition"
@@ -118,7 +124,8 @@
             "owner": "AllenInstitute",
             "repo": "ecephys_spike_sorting",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "NeuroNetMem",
             "repo": "PowerPixelsPipeline",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         }
       ],
       "title": "General frameworks that incorporate many of the steps below"
@@ -154,7 +162,8 @@
             "owner": "open-ephys",
             "repo": "open-ephys-matlab-tools",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "group",
@@ -174,7 +183,8 @@
                 "owner": "jenniferColonell",
                 "repo": "SpikeGLX_Datafile_Tools",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T13:40:32.990Z"
             },
             {
               "node_type": "item",
@@ -189,7 +199,8 @@
                 "owner": "jenniferColonell",
                 "repo": "SGLXMetaToCoords",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T13:40:32.990Z"
             }
           ]
         },
@@ -211,7 +222,8 @@
                 "owner": "billkarsh",
                 "repo": "CatGT",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:40:32.990Z"
             }
           ]
         },
@@ -233,7 +245,8 @@
                 "owner": "cortex-lab",
                 "repo": "spikes",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T13:40:32.990Z"
             },
             {
               "node_type": "item",
@@ -248,7 +261,8 @@
                 "owner": "billkarsh",
                 "repo": "CatGT",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T13:40:32.990Z"
             }
           ]
         },
@@ -270,7 +284,8 @@
                 "owner": "Julie-Fabre",
                 "repo": "bombcell",
                 "stars": 250
-              }
+              },
+              "first_seen": "2026-08-28T13:40:32.990Z"
             },
             {
               "node_type": "item",
@@ -285,7 +300,8 @@
                 "owner": "int-brain-lab",
                 "repo": "mtscomp",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T13:40:32.990Z"
             }
           ]
         }
@@ -308,7 +324,8 @@
             "owner": "MouseLand",
             "repo": "Kilosort",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -323,7 +340,8 @@
             "owner": "MouseLand",
             "repo": "Kilosort",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -338,7 +356,8 @@
             "owner": "MouseLand",
             "repo": "Kilosort",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -353,7 +372,8 @@
             "owner": "SpikeAgent",
             "repo": "SpikeAgent",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -368,7 +388,8 @@
             "owner": "int-brain-lab",
             "repo": "ibl-sorter",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         }
       ],
       "title": "Spike-sorting"
@@ -385,11 +406,12 @@
             "archived": false,
             "id": 22426819,
             "language": "Python",
-            "last_commit": "2026-08-21T15:46:14Z",
+            "last_commit": "2026-08-28T13:18:32Z",
             "owner": "cortex-lab",
             "repo": "phy",
             "stars": 425
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -404,7 +426,8 @@
             "owner": "Julie-Fabre",
             "repo": "bombcell",
             "stars": 250
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -419,7 +442,8 @@
             "owner": "LiuLab-Bioelectronics-Harvard",
             "repo": "SpikeAgent",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -434,7 +458,8 @@
             "owner": "SteinmetzLab",
             "repo": "qualityMetrics",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "group",
@@ -450,11 +475,12 @@
                 "archived": false,
                 "id": 572104021,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T21:23:17Z",
+                "last_commit": "2026-08-27T20:07:31Z",
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T13:40:32.990Z"
             },
             {
               "node_type": "item",
@@ -469,7 +495,8 @@
                 "owner": "saikoukunt",
                 "repo": "SLAy",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T13:40:32.990Z"
             }
           ]
         }
@@ -492,7 +519,8 @@
             "owner": "Julie-Fabre",
             "repo": "bombcell",
             "stars": 250
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -507,7 +535,8 @@
             "owner": "LiuLab-Bioelectronics-Harvard",
             "repo": "BCI-Agent",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         }
       ],
       "title": "Classifying cell types"
@@ -524,11 +553,12 @@
             "archived": false,
             "id": 572104021,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T21:23:17Z",
+            "last_commit": "2026-08-27T20:07:31Z",
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -543,7 +573,8 @@
             "owner": "LiuLab-Bioelectronics-Harvard",
             "repo": "AutoSort",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -558,7 +589,8 @@
             "owner": "AugustineY07",
             "repo": "Neuron_Tracking",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         }
       ],
       "title": "Tracking cells over days"
@@ -579,7 +611,8 @@
             "owner": "m-beau",
             "repo": "NeuroPyxels",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -594,7 +627,8 @@
             "owner": "cortex-lab",
             "repo": "spikes",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -609,7 +643,8 @@
             "owner": "djoshea",
             "repo": "neuropixel-utils",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         }
       ],
       "title": "Loading and plotting data"
@@ -630,7 +665,8 @@
             "owner": "PolarBean",
             "repo": "DeepSlice",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -645,7 +681,8 @@
             "owner": "petersaj",
             "repo": "AP_histology",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         },
         {
           "node_type": "item",
@@ -660,14 +697,15 @@
             "owner": "Whitlock-Group",
             "repo": "HERBS",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T13:40:32.990Z"
         }
       ],
       "title": "Histology"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:15:43.918Z",
+    "last_updated": "2026-08-28T13:40:32.990Z",
     "original_repository_info": {
       "archived": false,
       "id": 700405996,
