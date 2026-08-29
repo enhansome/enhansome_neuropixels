@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Neuropixels resources.",
+            "homepage": null,
             "id": 700405996,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-16T12:58:30Z",
+            "open_issues": 0,
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "list",
+              "lists",
+              "neuropixels",
+              "neuroscience"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information about Neuropixels electrode arrays",
+            "homepage": null,
             "id": 90779159,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2024-12-15T14:07:32Z",
+            "open_issues": 46,
             "owner": "cortex-lab",
             "repo": "neuropixels",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -42,12 +60,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information about Neuropixels electrode arrays",
+            "homepage": null,
             "id": 90779159,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2024-12-15T14:07:32Z",
+            "open_issues": 46,
             "owner": "cortex-lab",
             "repo": "neuropixels",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -58,12 +81,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wall monted enclosure for Neuropixels probes",
+            "homepage": null,
             "id": 787680656,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-06T19:13:03Z",
+            "open_issues": 0,
             "owner": "MarinManuel",
             "repo": "NeuropixelsEnclosure",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         }
@@ -80,12 +108,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Neuropixels resources.",
+            "homepage": null,
             "id": 700405996,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-16T12:58:30Z",
+            "open_issues": 0,
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "list",
+              "lists",
+              "neuropixels",
+              "neuroscience"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -96,12 +137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Information about Neuropixels electrode arrays",
+            "homepage": null,
             "id": 90779159,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2024-12-15T14:07:32Z",
+            "open_issues": 46,
             "owner": "cortex-lab",
             "repo": "neuropixels",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         }
@@ -118,12 +164,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modules for processing extracellular electrophysiology data from Neuropixels probes",
+            "homepage": null,
             "id": 132949362,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-18T22:52:23Z",
+            "open_issues": 19,
             "owner": "AllenInstitute",
             "repo": "ecephys_spike_sorting",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "analysis-pipeline",
+              "electrophysiology",
+              "python3",
+              "spikes"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -134,12 +190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 727145366,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-05T13:15:45Z",
+            "open_issues": 0,
             "owner": "NeuroNetMem",
             "repo": "PowerPixelsPipeline",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         }
@@ -156,12 +217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Matlab code for interacting with the Open Ephys GUI",
+            "homepage": null,
             "id": 344627639,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2024-09-25T21:06:40Z",
+            "open_issues": 11,
             "owner": "open-ephys",
             "repo": "open-ephys-matlab-tools",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -177,12 +243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example code for reading SpikeGLX metadata and binary files",
+                "homepage": null,
                 "id": 618183861,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2026-06-24T23:59:27Z",
+                "open_issues": 0,
                 "owner": "jenniferColonell",
                 "repo": "SpikeGLX_Datafile_Tools",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
             },
@@ -193,12 +264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code to create geometry files for sorting from SpikeGLX metadata",
+                "homepage": null,
                 "id": 618178977,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-19T17:50:18Z",
+                "open_issues": 2,
                 "owner": "jenniferColonell",
                 "repo": "SGLXMetaToCoords",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
             }
@@ -216,12 +292,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SpikeGLX postprocessing [tshift filter CAR fix join extract]",
+                "homepage": null,
                 "id": 458109231,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-05-05T20:57:41Z",
+                "open_issues": 0,
                 "owner": "billkarsh",
                 "repo": "CatGT",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
             }
@@ -239,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cortex lab code for electrophysiology ",
+                "homepage": null,
                 "id": 57906486,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2024-02-05T06:28:10Z",
+                "open_issues": 12,
                 "owner": "cortex-lab",
                 "repo": "spikes",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
             },
@@ -255,12 +341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SpikeGLX postprocessing [tshift filter CAR fix join extract]",
+                "homepage": null,
                 "id": 458109231,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-05-05T20:57:41Z",
+                "open_issues": 0,
                 "owner": "billkarsh",
                 "repo": "CatGT",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
             }
@@ -278,12 +369,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated quality control, curation and neuron classification of spike-sorted electrophysiology data. Available in MATLAB and in Python.",
+                "homepage": null,
                 "id": 361686687,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-25T19:20:22Z",
+                "open_issues": 12,
                 "owner": "Julie-Fabre",
                 "repo": "bombcell",
-                "stars": 250
+                "stars": 250,
+                "topics": [
+                  "curation",
+                  "electrophysiology",
+                  "neuropixels",
+                  "neuroscience",
+                  "quality-control"
+                ]
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
             },
@@ -294,12 +396,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multichannel time series lossless compression in pure Python based on NumPy and zlib",
+                "homepage": null,
                 "id": 204465064,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-03-18T10:46:04Z",
+                "open_issues": 9,
                 "owner": "int-brain-lab",
                 "repo": "mtscomp",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "compression",
+                  "electrophysiology",
+                  "neurophysiology",
+                  "numpy",
+                  "python",
+                  "zlib"
+                ]
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
             }
@@ -318,12 +432,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast spike sorting with drift correction",
+            "homepage": "https://kilosort.readthedocs.io/en/latest/",
             "id": 132137449,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-27T20:33:25Z",
+            "open_issues": 15,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 624
+            "stars": 624,
+            "topics": [
+              "electrophysiology",
+              "neuroscience",
+              "spike-sorting"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -334,12 +457,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast spike sorting with drift correction",
+            "homepage": "https://kilosort.readthedocs.io/en/latest/",
             "id": 132137449,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-27T20:33:25Z",
+            "open_issues": 15,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 624
+            "stars": 624,
+            "topics": [
+              "electrophysiology",
+              "neuroscience",
+              "spike-sorting"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -350,12 +482,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast spike sorting with drift correction",
+            "homepage": "https://kilosort.readthedocs.io/en/latest/",
             "id": 132137449,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-27T20:33:25Z",
+            "open_issues": 15,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 624
+            "stars": 624,
+            "topics": [
+              "electrophysiology",
+              "neuroscience",
+              "spike-sorting"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -366,12 +507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SpikeAgent is a multimodal LLM-based AI agent that automates and standardizes the spike sorting pipeline.",
+            "homepage": null,
             "id": 1078500279,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-08-02T14:42:32Z",
+            "open_issues": 0,
             "owner": "SpikeAgent",
             "repo": "SpikeAgent",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -382,12 +528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 784290492,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-23T12:00:42Z",
+            "open_issues": 10,
             "owner": "int-brain-lab",
             "repo": "ibl-sorter",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         }
@@ -404,12 +555,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "phy: interactive visualization and manual spike sorting of large-scale ephys data",
+            "homepage": null,
             "id": 22426819,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T13:18:32Z",
+            "open_issues": 83,
             "owner": "cortex-lab",
             "repo": "phy",
-            "stars": 425
+            "stars": 425,
+            "topics": [
+              "data-analysis",
+              "electrophysiology",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -420,12 +580,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated quality control, curation and neuron classification of spike-sorted electrophysiology data. Available in MATLAB and in Python.",
+            "homepage": null,
             "id": 361686687,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-25T19:20:22Z",
+            "open_issues": 12,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 250
+            "stars": 250,
+            "topics": [
+              "curation",
+              "electrophysiology",
+              "neuropixels",
+              "neuroscience",
+              "quality-control"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -436,12 +607,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SpikeAgent is a multimodal LLM-based AI agent that automates and standardizes the spike sorting pipeline",
+            "homepage": "https://doi.org/10.1101/2025.02.11.637754",
             "id": 930575943,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-05T06:20:52Z",
+            "open_issues": 2,
             "owner": "LiuLab-Bioelectronics-Harvard",
             "repo": "SpikeAgent",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "agent",
+              "agent-based-model",
+              "agentic",
+              "agentic-ai",
+              "agents",
+              "ai",
+              "braincomputerinterface",
+              "neuroscience",
+              "spike",
+              "spike-analysis",
+              "spike-detection",
+              "spike-sorting"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -452,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to compute single unit quality metrics on neuropixels data",
+            "homepage": null,
             "id": 554929878,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T01:15:19Z",
+            "open_issues": 1,
             "owner": "SteinmetzLab",
             "repo": "qualityMetrics",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -473,12 +667,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ephys toolbox to match single units (electrophysiology) either within the same day (over splits) or across two days",
+                "homepage": null,
                 "id": 572104021,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T20:07:31Z",
+                "open_issues": 1,
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
             },
@@ -489,12 +688,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 542195257,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-07T21:51:46Z",
+                "open_issues": 5,
                 "owner": "saikoukunt",
                 "repo": "SLAy",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
             }
@@ -513,12 +717,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated quality control, curation and neuron classification of spike-sorted electrophysiology data. Available in MATLAB and in Python.",
+            "homepage": null,
             "id": 361686687,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-25T19:20:22Z",
+            "open_issues": 12,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 250
+            "stars": 250,
+            "topics": [
+              "curation",
+              "electrophysiology",
+              "neuropixels",
+              "neuroscience",
+              "quality-control"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -529,12 +744,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI agent for cell-type specific brain-computer interfaces",
+            "homepage": "https://www.biorxiv.org/content/10.1101/2025.09.11.675660v1",
             "id": 989275255,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-18T03:09:31Z",
+            "open_issues": 0,
             "owner": "LiuLab-Bioelectronics-Harvard",
             "repo": "BCI-Agent",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "agentic-ai",
+              "ai",
+              "ai4science",
+              "aiagents",
+              "bci",
+              "braincomputerinterface",
+              "neuroscience"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         }
@@ -551,12 +779,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ephys toolbox to match single units (electrophysiology) either within the same day (over splits) or across two days",
+            "homepage": null,
             "id": 572104021,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T20:07:31Z",
+            "open_issues": 1,
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -567,12 +800,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stable and aligned spike sorting and decoding over long-term recordings in BCI",
+            "homepage": null,
             "id": 541751004,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-10T13:17:23Z",
+            "open_issues": 0,
             "owner": "LiuLab-Bioelectronics-Harvard",
             "repo": "AutoSort",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "brain-computer-interace-application",
+              "brain-computer-interface",
+              "brain-machine-interface",
+              "long-term-electrophysiological-recording",
+              "neural-decoding",
+              "spike-analysis",
+              "spike-sorter",
+              "spike-sorting",
+              "spike-sorting-software",
+              "spike-trains"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -583,12 +832,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 427147462,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2024-10-18T07:38:05Z",
+            "open_issues": 4,
             "owner": "AugustineY07",
             "repo": "Neuron_Tracking",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         }
@@ -605,12 +859,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeuroPyxels (npyx) is a python library built for electrophysiologists using Neuropixels electrodes. This package stems from the need of a pythonist who really did not want to transition to MATLAB to work with Neuropixels: it features a suite of core utility functions for loading, processing and plotting Neuropixels data.",
+            "homepage": null,
             "id": 313917900,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-19T14:47:40Z",
+            "open_issues": 8,
             "owner": "m-beau",
             "repo": "NeuroPyxels",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "electrophysiology",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -621,12 +883,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cortex lab code for electrophysiology ",
+            "homepage": null,
             "id": 57906486,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2024-02-05T06:28:10Z",
+            "open_issues": 12,
             "owner": "cortex-lab",
             "repo": "spikes",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -637,12 +904,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for managing Neuropixel datasets and Kilosort results",
+            "homepage": "https://djoshea.github.io/neuropixel-utils/",
             "id": 146830890,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2026-08-20T17:18:32Z",
+            "open_issues": 2,
             "owner": "djoshea",
             "repo": "neuropixel-utils",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         }
@@ -659,12 +931,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python package which aligns histology to the Allen Brain Atlas and Waxholm rat atlas using deep learning.",
+            "homepage": "https://www.deepslice.com.au",
             "id": 274122364,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-08T17:36:47Z",
+            "open_issues": 7,
             "owner": "PolarBean",
             "repo": "DeepSlice",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "automation",
+              "brain-imaging",
+              "brainmap",
+              "brainmaps",
+              "deep-learning",
+              "histological-images",
+              "histology",
+              "machine-learning",
+              "neuroscience",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -675,12 +963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Histology processing",
+            "homepage": null,
             "id": 223226910,
             "language": "MATLAB",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T18:47:15Z",
+            "open_issues": 0,
             "owner": "petersaj",
             "repo": "AP_histology",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         },
@@ -691,12 +984,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 504922113,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-30T13:15:31Z",
+            "open_issues": 2,
             "owner": "Whitlock-Group",
             "repo": "HERBS",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
         }
@@ -705,15 +1003,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:40:32.990Z",
+    "last_updated": "2026-08-29T04:53:58.498Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Neuropixels resources.",
+      "homepage": null,
       "id": 700405996,
       "language": null,
+      "license": null,
       "last_commit": "2025-12-16T12:58:30Z",
+      "open_issues": 0,
       "owner": "Julie-Fabre",
       "repo": "awesome_neuropixels",
-      "stars": 145
+      "stars": 145,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "list",
+        "lists",
+        "neuropixels",
+        "neuroscience"
+      ]
     },
     "original_repository_sha": "399f81f8770b2be27915c10e4ee835e72424704a",
     "enhanced_repository": "enhansome/enhansome_neuropixels",
