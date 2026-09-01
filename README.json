@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "jenniferColonell",
                 "repo": "SpikeGLX_Datafile_Tools",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
@@ -441,7 +441,7 @@
             "open_issues": 15,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 624,
+            "stars": 625,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -466,7 +466,7 @@
             "open_issues": 15,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 624,
+            "stars": 625,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -491,7 +491,7 @@
             "open_issues": 15,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 624,
+            "stars": 625,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -564,7 +564,7 @@
             "open_issues": 83,
             "owner": "cortex-lab",
             "repo": "phy",
-            "stars": 425,
+            "stars": 426,
             "topics": [
               "data-analysis",
               "electrophysiology",
@@ -937,7 +937,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-08T17:36:47Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "PolarBean",
             "repo": "DeepSlice",
             "stars": 128,
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:59:29.827Z",
+    "last_updated": "2026-09-01T07:05:56.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",

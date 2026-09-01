@@ -105,7 +105,7 @@ Non recoverable implants:
 
 * Open Ephys: <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [matlab](https://github.com/open-ephys/open-ephys-matlab-tools) ⭐ 21 | 🐛 11 | 🌐 MATLAB | 📅 2024-09-25, [python](https://github.com/open-ephys/open-ephys-python-tools) ⭐ 48 | 🐛 20 | 🌐 Python | 📅 2025-11-07
 * SpikeGLX:
-  * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Functions to read outputs](https://github.com/jenniferColonell/SpikeGLX_Datafile_Tools) ⭐ 15 | 🐛 0 | 🌐 MATLAB | 📅 2026-06-24
+  * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Functions to read outputs](https://github.com/jenniferColonell/SpikeGLX_Datafile_Tools) ⭐ 16 | 🐛 0 | 🌐 MATLAB | 📅 2026-06-24
   * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Getting a channel map for spike-sorting based on your IMRO](https://github.com/jenniferColonell/SGLXMetaToCoords) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2023-07-19
 * Applying a phase shift to Neuropixels channels (to correct asynchronous sampling across ADCs):
   * <img src="./images/binary-file.svg" width="3%"> [code](https://github.com/billkarsh/CatGT) ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2026-05-05
@@ -121,15 +121,15 @@ Non recoverable implants:
 
 ## Spike-sorting
 
-* <img src="./images/python.svg" width="3%"> [Kilosort 4](https://github.com/MouseLand/Kilosort) ⭐ 624 | 🐛 15 | 🌐 Python | 📅 2026-04-27, [paper](https://www.nature.com/articles/s41592-024-02232-7)
-* <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases) ⭐ 624 | 🐛 15 | 🌐 Python | 📅 2026-04-27, [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
-* Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594) ⭐ 624 | 🐛 15 | 🌐 Python | 📅 2026-04-27.
+* <img src="./images/python.svg" width="3%"> [Kilosort 4](https://github.com/MouseLand/Kilosort) ⭐ 625 | 🐛 15 | 🌐 Python | 📅 2026-04-27, [paper](https://www.nature.com/articles/s41592-024-02232-7)
+* <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases) ⭐ 625 | 🐛 15 | 🌐 Python | 📅 2026-04-27, [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
+* Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594) ⭐ 625 | 🐛 15 | 🌐 Python | 📅 2026-04-27.
 * <img src="./images/python.svg" width="3%"> [SpikeAgent](https://github.com/SpikeAgent/SpikeAgent) ⭐ 18 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-02 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 * <img src="./images/python.svg" width="3%"> [Python port of Kilosort 2.5](https://github.com/int-brain-lab/pykilosort) ⭐ 13 | 🐛 10 | 🌐 Python | 📅 2026-06-23 , [white paper](https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3)
 
 ## Quality control
 
-* <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy) ⭐ 425 | 🐛 83 | 🌐 Python | 📅 2026-08-28, [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/docs/manualCurationPhyWorkflow.md) ⭐ 250 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-05-25, Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc\&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb\&index=11\&ab_channel=MatteoCarandini).
+* <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy) ⭐ 426 | 🐛 83 | 🌐 Python | 📅 2026-08-28, [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/docs/manualCurationPhyWorkflow.md) ⭐ 250 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-05-25, Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc\&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb\&index=11\&ab_channel=MatteoCarandini).
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Bombcell: automated quality control and metrics](https://github.com/Julie-Fabre/bombcell) ⭐ 250 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-05-25, [wiki](https://github.com/Julie-Fabre/bombcell/wiki) ⭐ 250 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-05-25, [talk](https://www.youtube.com/watch?v=8Gauba3KzvM\&list=PLfhWmWntvjl7kljKozClpjS29DoY8V5pB\&index=12) at the annual Neuropixels course about quality control.
 * [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-12-05 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-08-26
@@ -173,11 +173,11 @@ Non recoverable implants:
 
 ## Histology
 
-* <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains)   and/or classical slice-by-slice histology (2D)  [DeepSlice](https://github.com/PolarBean/DeepSlice) ⭐ 128 | 🐛 7 | 🌐 Python | 📅 2026-06-08
+* <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains)   and/or classical slice-by-slice histology (2D)  [DeepSlice](https://github.com/PolarBean/DeepSlice) ⭐ 128 | 🐛 8 | 🌐 Python | 📅 2026-06-08
 * <img src="./images/matlab.svg" width="3%"> For classical slice-by-slice histology (2D) [AP histology](https://github.com/petersaj/AP_histology) ⭐ 80 | 🐛 0 | 🌐 MATLAB | 📅 2026-08-26
 * <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS) ⭐ 57 | 🐛 2 | 🌐 Python | 📅 2024-08-30
 * <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains) [Brainglobe](https://brainglobe.info/index.html)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
