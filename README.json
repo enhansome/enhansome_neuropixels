@@ -537,7 +537,7 @@
             "open_issues": 10,
             "owner": "int-brain-lab",
             "repo": "ibl-sorter",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T06:42:55.757Z",
+    "last_updated": "2026-09-03T06:45:28.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
