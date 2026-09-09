@@ -378,7 +378,7 @@
                 "open_issues": 5,
                 "owner": "Julie-Fabre",
                 "repo": "bombcell",
-                "stars": 250,
+                "stars": 252,
                 "topics": [
                   "curation",
                   "electrophysiology",
@@ -564,7 +564,7 @@
             "open_issues": 84,
             "owner": "cortex-lab",
             "repo": "phy",
-            "stars": 427,
+            "stars": 428,
             "topics": [
               "data-analysis",
               "electrophysiology",
@@ -589,7 +589,7 @@
             "open_issues": 5,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 250,
+            "stars": 252,
             "topics": [
               "curation",
               "electrophysiology",
@@ -676,7 +676,7 @@
                 "open_issues": 1,
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
-                "stars": 80,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
@@ -726,7 +726,7 @@
             "open_issues": 5,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 250,
+            "stars": 252,
             "topics": [
               "curation",
               "electrophysiology",
@@ -788,7 +788,7 @@
             "open_issues": 1,
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
@@ -936,7 +936,7 @@
             "id": 274122364,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-06-08T17:36:47Z",
+            "last_commit": "2026-09-08T09:41:03Z",
             "open_issues": 8,
             "owner": "PolarBean",
             "repo": "DeepSlice",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:49:44.472Z",
+    "last_updated": "2026-09-09T06:58:45.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
