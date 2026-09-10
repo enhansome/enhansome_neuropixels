@@ -97,7 +97,7 @@ Non recoverable implants:
 
 ## General frameworks that incorporate many of the steps below
 
-* <img src="./images/python.svg" width="3%"> [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting) ⭐ 130 | 🐛 19 | 🌐 Python | 📅 2024-08-18, [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting) ⭐ 72 | 🐛 4 | 🌐 Python | 📅 2026-04-22
+* <img src="./images/python.svg" width="3%"> [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting) ⭐ 130 | 🐛 19 | 🌐 Python | 📅 2024-08-18, [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting) ⭐ 73 | 🐛 4 | 🌐 Python | 📅 2026-04-22
 * <img src="./images/python.svg" width="3%"> + <img src="./images/matlab.svg" width="3%"> [Guido Meijer's PowerPixels pipeline](https://github.com/NeuroNetMem/PowerPixelsPipeline) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2026-06-05
 * <img src="./images/python.svg" width="3%"> [SpikeInterface](https://github.com/SpikeInterface)
 
@@ -121,15 +121,15 @@ Non recoverable implants:
 
 ## Spike-sorting
 
-* <img src="./images/python.svg" width="3%"> [Kilosort 4](https://github.com/MouseLand/Kilosort) ⭐ 625 | 🐛 20 | 🌐 Python | 📅 2026-04-27, [paper](https://www.nature.com/articles/s41592-024-02232-7)
-* <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases) ⭐ 625 | 🐛 20 | 🌐 Python | 📅 2026-04-27, [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
-* Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594) ⭐ 625 | 🐛 20 | 🌐 Python | 📅 2026-04-27.
+* <img src="./images/python.svg" width="3%"> [Kilosort 4](https://github.com/MouseLand/Kilosort) ⭐ 626 | 🐛 20 | 🌐 Python | 📅 2026-04-27, [paper](https://www.nature.com/articles/s41592-024-02232-7)
+* <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases) ⭐ 626 | 🐛 20 | 🌐 Python | 📅 2026-04-27, [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
+* Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594) ⭐ 626 | 🐛 20 | 🌐 Python | 📅 2026-04-27.
 * <img src="./images/python.svg" width="3%"> [SpikeAgent](https://github.com/SpikeAgent/SpikeAgent) ⭐ 18 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-02 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 * <img src="./images/python.svg" width="3%"> [Python port of Kilosort 2.5](https://github.com/int-brain-lab/pykilosort) ⭐ 15 | 🐛 10 | 🌐 Python | 📅 2026-06-23 , [white paper](https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3)
 
 ## Quality control
 
-* <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy) ⭐ 428 | 🐛 84 | 🌐 Python | 📅 2026-09-06, [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/docs/manualCurationPhyWorkflow.md) ⭐ 252 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-09-08, Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc\&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb\&index=11\&ab_channel=MatteoCarandini).
+* <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy) ⭐ 429 | 🐛 85 | 🌐 Python | 📅 2026-09-09, [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/docs/manualCurationPhyWorkflow.md) ⭐ 252 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-09-08, Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc\&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb\&index=11\&ab_channel=MatteoCarandini).
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Bombcell: automated quality control and metrics](https://github.com/Julie-Fabre/bombcell) ⭐ 252 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-09-08, [wiki](https://github.com/Julie-Fabre/bombcell/wiki) ⭐ 252 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-09-08, [talk](https://www.youtube.com/watch?v=8Gauba3KzvM\&list=PLfhWmWntvjl7kljKozClpjS29DoY8V5pB\&index=12) at the annual Neuropixels course about quality control.
 * [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-12-05 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-08-26
@@ -180,4 +180,4 @@ Non recoverable implants:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
