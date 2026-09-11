@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "awesome",
               "awesome-list",
@@ -117,7 +117,7 @@
             "open_issues": 0,
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "awesome",
               "awesome-list",
@@ -441,7 +441,7 @@
             "open_issues": 20,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 626,
+            "stars": 627,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -466,7 +466,7 @@
             "open_issues": 20,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 626,
+            "stars": 627,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -491,7 +491,7 @@
             "open_issues": 20,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 626,
+            "stars": 627,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -564,7 +564,7 @@
             "open_issues": 85,
             "owner": "cortex-lab",
             "repo": "phy",
-            "stars": 429,
+            "stars": 430,
             "topics": [
               "data-analysis",
               "electrophysiology",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T06:55:03.081Z",
+    "last_updated": "2026-09-11T06:54:45.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
@@ -1015,7 +1015,7 @@
       "open_issues": 0,
       "owner": "Julie-Fabre",
       "repo": "awesome_neuropixels",
-      "stars": 145,
+      "stars": 146,
       "topics": [
         "awesome",
         "awesome-list",
