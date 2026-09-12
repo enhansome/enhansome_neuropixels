@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "awesome",
               "awesome-list",
@@ -117,7 +117,7 @@
             "open_issues": 0,
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "awesome",
               "awesome-list",
@@ -968,7 +968,7 @@
             "id": 223226910,
             "language": "MATLAB",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-26T18:47:15Z",
+            "last_commit": "2026-09-11T16:52:07Z",
             "open_issues": 0,
             "owner": "petersaj",
             "repo": "AP_histology",
@@ -993,7 +993,7 @@
             "open_issues": 2,
             "owner": "Whitlock-Group",
             "repo": "HERBS",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T06:54:45.184Z",
+    "last_updated": "2026-09-12T06:46:31.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
@@ -1015,7 +1015,7 @@
       "open_issues": 0,
       "owner": "Julie-Fabre",
       "repo": "awesome_neuropixels",
-      "stars": 146,
+      "stars": 147,
       "topics": [
         "awesome",
         "awesome-list",
