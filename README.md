@@ -135,7 +135,7 @@ Non recoverable implants:
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-08-26
 * Merging neurons:
   * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-09-03, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
-  * <img src="./images/python.svg" width="3%"> [SLAy](https://github.com/saikoukunt/SLAy) ⭐ 16 | 🐛 6 | 🌐 Python | 📅 2026-09-07, paper [here](https://www.biorxiv.org/content/10.1101/2025.06.20.660590v1)
+  * <img src="./images/python.svg" width="3%"> [SLAy](https://github.com/saikoukunt/SLAy) ⭐ 16 | 🐛 6 | 🌐 Python | 📅 2026-09-13, paper [here](https://www.biorxiv.org/content/10.1101/2025.06.20.660590v1)
 
 ## Classifying cell types
 
@@ -180,4 +180,4 @@ Non recoverable implants:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

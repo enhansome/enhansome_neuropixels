@@ -693,7 +693,7 @@
                 "id": 542195257,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T18:04:07Z",
+                "last_commit": "2026-09-13T23:09:15Z",
                 "open_issues": 6,
                 "owner": "saikoukunt",
                 "repo": "SLAy",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:04:26.585Z",
+    "last_updated": "2026-09-14T07:27:37.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
