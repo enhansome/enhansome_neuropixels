@@ -405,7 +405,7 @@
                 "open_issues": 9,
                 "owner": "int-brain-lab",
                 "repo": "mtscomp",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "compression",
                   "electrophysiology",
@@ -441,7 +441,7 @@
             "open_issues": 20,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 627,
+            "stars": 628,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -466,7 +466,7 @@
             "open_issues": 20,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 627,
+            "stars": 628,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -491,7 +491,7 @@
             "open_issues": 20,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 627,
+            "stars": 628,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T07:04:05.449Z",
+    "last_updated": "2026-09-16T07:05:15.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
