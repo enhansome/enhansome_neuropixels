@@ -33,7 +33,7 @@ Want to add something to this list? Create a pull request, raise a github issue 
 ## Neuropixels papers and manuals
 
 * [Neuropixels 1.0](https://www.nature.com/articles/nature24636/), [manual](https://www.neuropixels.org/_files/ugd/832f20_ba7f3e9e639b49809458cf64d76abdcc.pdf)
-* [Neuropixels 2.0](https://www.science.org/doi/10.1126/science.abf4588), [manual](https://github.com/Julie-Fabre/awesome-neuropixels/blob/master/Neuropixels%202.0%20User%20Manual%20V1.0.pdf) ⭐ 148 | 🐛 0 | 📅 2025-12-16
+* [Neuropixels 2.0](https://www.science.org/doi/10.1126/science.abf4588), [manual](https://github.com/Julie-Fabre/awesome-neuropixels/blob/master/Neuropixels%202.0%20User%20Manual%20V1.0.pdf) ⭐ 149 | 🐛 0 | 📅 2025-12-16
 * [Neuropixels ultra](https://www.biorxiv.org/content/10.1101/2023.08.23.554527v2)
 * [Neuropixels for NHP](https://www.biorxiv.org/content/10.1101/2023.02.01.526664v3)
 * [Neuropixels for humans](https://www.nature.com/articles/s41596-023-00871-2)
@@ -41,7 +41,7 @@ Want to add something to this list? Create a pull request, raise a github issue 
 
 ## Images and SVGs of probes
 
-Images and SVGs of probes can be found in [this folder](https://github.com/Julie-Fabre/awesome_neuropixels/tree/main/Neuropixels_images) ⭐ 148 | 🐛 0 | 📅 2025-12-16
+Images and SVGs of probes can be found in [this folder](https://github.com/Julie-Fabre/awesome_neuropixels/tree/main/Neuropixels_images) ⭐ 149 | 🐛 0 | 📅 2025-12-16
 
 ## Courses, talks and videos
 
@@ -57,7 +57,7 @@ Images and SVGs of probes can be found in [this folder](https://github.com/Julie
 
 ## Probe setup, care and sharpening
 
-* [Some tips to seperate shanks from each other](https://github.com/Julie-Fabre/awesome_neuropixels/blob/main/Some_tips_to_seperate_shanks_from_each_other.md) ⭐ 148 | 🐛 0 | 📅 2025-12-16
+* [Some tips to seperate shanks from each other](https://github.com/Julie-Fabre/awesome_neuropixels/blob/main/Some_tips_to_seperate_shanks_from_each_other.md) ⭐ 149 | 🐛 0 | 📅 2025-12-16
 * [Sharpening probes](https://github.com/cortex-lab/neuropixels/wiki/Sharpening) ⭐ 97 | 🐛 46 | 🌐 MATLAB | 📅 2024-12-15
 * [Cleaning and caring for probes](https://github.com/cortex-lab/neuropixels/wiki/Probe_care) ⭐ 97 | 🐛 46 | 🌐 MATLAB | 📅 2024-12-15
 * [Slack thread about how to store probes](https://neuropixelsgroup.slack.com/archives/C93JDLKJP/p1699504147935669), and [files for a wall-mounted enclosure](https://github.com/MarinManuel/NeuropixelsEnclosure) ⭐ 2 | 🐛 0 | 📅 2025-08-06
@@ -87,7 +87,7 @@ Non recoverable implants:
 
 ## Data acquisition
 
-* [Some tips to reduce noise](https://github.com/Julie-Fabre/awesome-neuropixels/blob/main/Some_tips_to_reduce_noise.md) ⭐ 148 | 🐛 0 | 📅 2025-12-16
+* [Some tips to reduce noise](https://github.com/Julie-Fabre/awesome-neuropixels/blob/main/Some_tips_to_reduce_noise.md) ⭐ 149 | 🐛 0 | 📅 2025-12-16
 * [Synchronizing data streams](https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html), optional Arduino code for applying external sync pulses [here](https://github.com/cortex-lab/neuropixels/wiki/Synchronization) ⭐ 97 | 🐛 46 | 🌐 MATLAB | 📅 2024-12-15.
 * [SpikeGLX](https://billkarsh.github.io/SpikeGLX/)
 * [Open Ephys GUI](https://open-ephys.org/gui)
@@ -97,8 +97,8 @@ Non recoverable implants:
 
 ## General frameworks that incorporate many of the steps below
 
-* <img src="./images/python.svg" width="3%"> [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting) ⭐ 130 | 🐛 19 | 🌐 Python | 📅 2024-08-18, [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting) ⭐ 73 | 🐛 4 | 🌐 Python | 📅 2026-04-22
-* <img src="./images/python.svg" width="3%"> + <img src="./images/matlab.svg" width="3%"> [Guido Meijer's PowerPixels pipeline](https://github.com/NeuroNetMem/PowerPixelsPipeline) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2026-06-05
+* <img src="./images/python.svg" width="3%"> [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting) ⭐ 130 | 🐛 19 | 🌐 Python | 📅 2024-08-18, [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting) ⭐ 74 | 🐛 4 | 🌐 Python | 📅 2026-04-22
+* <img src="./images/python.svg" width="3%"> + <img src="./images/matlab.svg" width="3%"> [Guido Meijer's PowerPixels pipeline](https://github.com/NeuroNetMem/PowerPixelsPipeline) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2026-09-16
 * <img src="./images/python.svg" width="3%"> [SpikeInterface](https://github.com/SpikeInterface)
 
 ## Data preprocessing
@@ -160,7 +160,7 @@ Non recoverable implants:
 ## Trajectory planning
 
 * 3D trajectory planning tools (
-  ⚠️ Note that the 3D tools below use a (scaled) version of the Allen Atlas, and they disagree with other standard atlases like Franklin & Paxinos. More information [here](https://github.com/Julie-Fabre/awesome_neuropixels/blob/main/AtlasScaling.md) ⭐ 148 | 🐛 0 | 📅 2025-12-16 ⚠️ )
+  ⚠️ Note that the 3D tools below use a (scaled) version of the Allen Atlas, and they disagree with other standard atlases like Franklin & Paxinos. More information [here](https://github.com/Julie-Fabre/awesome_neuropixels/blob/main/AtlasScaling.md) ⭐ 149 | 🐛 0 | 📅 2025-12-16 ⚠️ )
   * <img src="./images/matlab.svg" width="3%"> [Neuropixels Trajectory Explorer](https://github.com/petersaj/neuropixels_trajectory_explorer) ⭐ 82 | 🐛 0 | 🌐 MATLAB | 📅 2026-08-12
   * <img src="./images/web.svg" width="3%"> [Pinpoint](https://github.com/VirtualBrainLab/Pinpoint) ⭐ 63 | 🐛 14 | 🌐 C# | 📅 2026-08-11
   * <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2024-08-30
@@ -180,4 +180,4 @@ Non recoverable implants:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
