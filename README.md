@@ -98,7 +98,7 @@ Non recoverable implants:
 ## General frameworks that incorporate many of the steps below
 
 * <img src="./images/python.svg" width="3%"> [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting) ⭐ 130 | 🐛 19 | 🌐 Python | 📅 2024-08-18, [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting) ⭐ 74 | 🐛 4 | 🌐 Python | 📅 2026-04-22
-* <img src="./images/python.svg" width="3%"> + <img src="./images/matlab.svg" width="3%"> [Guido Meijer's PowerPixels pipeline](https://github.com/NeuroNetMem/PowerPixelsPipeline) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2026-09-16
+* <img src="./images/python.svg" width="3%"> + <img src="./images/matlab.svg" width="3%"> [Guido Meijer's PowerPixels pipeline](https://github.com/NeuroNetMem/PowerPixelsPipeline) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2026-09-17
 * <img src="./images/python.svg" width="3%"> [SpikeInterface](https://github.com/SpikeInterface)
 
 ## Data preprocessing
@@ -180,4 +180,4 @@ Non recoverable implants:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
