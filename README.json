@@ -195,7 +195,7 @@
             "id": 727145366,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T18:09:11Z",
+            "last_commit": "2026-09-18T13:10:38Z",
             "open_issues": 0,
             "owner": "NeuroNetMem",
             "repo": "PowerPixelsPipeline",
@@ -516,7 +516,7 @@
             "open_issues": 0,
             "owner": "SpikeAgent",
             "repo": "SpikeAgent",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
@@ -560,8 +560,8 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-12T11:43:47Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-18T13:17:00Z",
+            "open_issues": 86,
             "owner": "cortex-lab",
             "repo": "phy",
             "stars": 430,
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T06:57:03.453Z",
+    "last_updated": "2026-09-19T06:55:44.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
