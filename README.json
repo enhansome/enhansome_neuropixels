@@ -405,7 +405,7 @@
                 "open_issues": 9,
                 "owner": "int-brain-lab",
                 "repo": "mtscomp",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "compression",
                   "electrophysiology",
@@ -441,7 +441,7 @@
             "open_issues": 20,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 628,
+            "stars": 627,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -466,7 +466,7 @@
             "open_issues": 20,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 628,
+            "stars": 627,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -491,7 +491,7 @@
             "open_issues": 20,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 628,
+            "stars": 627,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -560,8 +560,8 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-18T13:17:00Z",
-            "open_issues": 86,
+            "last_commit": "2026-09-20T06:47:59Z",
+            "open_issues": 83,
             "owner": "cortex-lab",
             "repo": "phy",
             "stars": 430,
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T06:55:44.702Z",
+    "last_updated": "2026-09-20T07:21:09.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
