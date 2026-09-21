@@ -195,7 +195,7 @@
             "id": 727145366,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T13:10:38Z",
+            "last_commit": "2026-09-20T11:33:47Z",
             "open_issues": 0,
             "owner": "NeuroNetMem",
             "repo": "PowerPixelsPipeline",
@@ -560,7 +560,7 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-20T06:47:59Z",
+            "last_commit": "2026-09-20T17:25:29Z",
             "open_issues": 83,
             "owner": "cortex-lab",
             "repo": "phy",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:21:09.601Z",
+    "last_updated": "2026-09-21T07:31:22.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
