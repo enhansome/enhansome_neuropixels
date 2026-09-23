@@ -174,10 +174,10 @@ Non recoverable implants:
 ## Histology
 
 * <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains)   and/or classical slice-by-slice histology (2D)  [DeepSlice](https://github.com/PolarBean/DeepSlice) ⭐ 129 | 🐛 8 | 🌐 Python | 📅 2026-09-08
-* <img src="./images/matlab.svg" width="3%"> For classical slice-by-slice histology (2D) [AP histology](https://github.com/petersaj/AP_histology) ⭐ 80 | 🐛 1 | 🌐 MATLAB | 📅 2026-09-21
+* <img src="./images/matlab.svg" width="3%"> For classical slice-by-slice histology (2D) [AP histology](https://github.com/petersaj/AP_histology) ⭐ 80 | 🐛 2 | 🌐 MATLAB | 📅 2026-09-22
 * <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2024-08-30
 * <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains) [Brainglobe](https://brainglobe.info/index.html)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
