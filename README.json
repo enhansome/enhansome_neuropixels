@@ -560,7 +560,7 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-20T17:25:29Z",
+            "last_commit": "2026-09-24T12:32:46Z",
             "open_issues": 83,
             "owner": "cortex-lab",
             "repo": "phy",
@@ -646,7 +646,7 @@
             "id": 554929878,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-24T00:35:57Z",
+            "last_commit": "2026-09-25T06:20:29Z",
             "open_issues": 1,
             "owner": "SteinmetzLab",
             "repo": "qualityMetrics",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T07:03:09.914Z",
+    "last_updated": "2026-09-25T06:59:41.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
