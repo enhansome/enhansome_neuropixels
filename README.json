@@ -868,7 +868,7 @@
             "open_issues": 8,
             "owner": "m-beau",
             "repo": "NeuroPyxels",
-            "stars": 155,
+            "stars": 157,
             "topics": [
               "electrophysiology",
               "python"
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T07:28:29.358Z",
+    "last_updated": "2026-09-28T08:05:46.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
