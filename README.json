@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "awesome",
               "awesome-list",
@@ -117,7 +117,7 @@
             "open_issues": 0,
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "awesome",
               "awesome-list",
@@ -441,7 +441,7 @@
             "open_issues": 18,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 629,
+            "stars": 630,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -466,7 +466,7 @@
             "open_issues": 18,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 629,
+            "stars": 630,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -491,7 +491,7 @@
             "open_issues": 18,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 629,
+            "stars": 630,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -646,7 +646,7 @@
             "id": 554929878,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T06:20:29Z",
+            "last_commit": "2026-09-28T21:09:30Z",
             "open_issues": 1,
             "owner": "SteinmetzLab",
             "repo": "qualityMetrics",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T08:05:46.755Z",
+    "last_updated": "2026-09-29T07:46:28.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
@@ -1015,7 +1015,7 @@
       "open_issues": 0,
       "owner": "Julie-Fabre",
       "repo": "awesome_neuropixels",
-      "stars": 149,
+      "stars": 150,
       "topics": [
         "awesome",
         "awesome-list",
