@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "awesome",
               "awesome-list",
@@ -117,7 +117,7 @@
             "open_issues": 0,
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "awesome",
               "awesome-list",
@@ -374,7 +374,7 @@
                 "id": 361686687,
                 "language": "Jupyter Notebook",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T01:16:30Z",
+                "last_commit": "2026-09-30T02:06:17Z",
                 "open_issues": 6,
                 "owner": "Julie-Fabre",
                 "repo": "bombcell",
@@ -441,7 +441,7 @@
             "open_issues": 18,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 630,
+            "stars": 631,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -466,7 +466,7 @@
             "open_issues": 18,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 630,
+            "stars": 631,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -491,7 +491,7 @@
             "open_issues": 18,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 630,
+            "stars": 631,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -585,7 +585,7 @@
             "id": 361686687,
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T01:16:30Z",
+            "last_commit": "2026-09-30T02:06:17Z",
             "open_issues": 6,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
@@ -722,7 +722,7 @@
             "id": 361686687,
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T01:16:30Z",
+            "last_commit": "2026-09-30T02:06:17Z",
             "open_issues": 6,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T07:46:28.519Z",
+    "last_updated": "2026-09-30T07:49:32.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
@@ -1015,7 +1015,7 @@
       "open_issues": 0,
       "owner": "Julie-Fabre",
       "repo": "awesome_neuropixels",
-      "stars": 150,
+      "stars": 151,
       "topics": [
         "awesome",
         "awesome-list",
