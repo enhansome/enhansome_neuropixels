@@ -108,11 +108,11 @@ Non recoverable implants:
   * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Functions to read outputs](https://github.com/jenniferColonell/SpikeGLX_Datafile_Tools) ⭐ 16 | 🐛 0 | 🌐 MATLAB | 📅 2026-06-24
   * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Getting a channel map for spike-sorting based on your IMRO](https://github.com/jenniferColonell/SGLXMetaToCoords) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2023-07-19
 * Applying a phase shift to Neuropixels channels (to correct asynchronous sampling across ADCs):
-  * <img src="./images/binary-file.svg" width="3%"> [code](https://github.com/billkarsh/CatGT) ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2026-05-05
+  * <img src="./images/binary-file.svg" width="3%"> [code](https://github.com/billkarsh/CatGT) ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2026-10-01
   * details [here](https://billkarsh.github.io/SpikeGLX/help/catgt_tshift/catgt_tshift/)
 * Common-average-referencing (gets rid of noise):
   * <img src="./images/python.svg" width="3%"> [CAR](https://github.com/cortex-lab/spikes/blob/master/preprocessing/applyCARtoDat.m) ⭐ 84 | 🐛 12 | 🌐 MATLAB | 📅 2024-02-05
-  * <img src="./images/binary-file.svg" width="3%"> [CatGT](https://github.com/billkarsh/CatGT) ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2026-05-05
+  * <img src="./images/binary-file.svg" width="3%"> [CatGT](https://github.com/billkarsh/CatGT) ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2026-10-01
 * Data compression/decompression:
   * <img src="./images/matlab.svg" width="3%"> [decompression](https://github.com/Julie-Fabre/bombcell/blob/master/decompressData/bc_extractCbinData.m) ⭐ 252 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30
   * <img src="./images/python.svg" width="3%"> [compression/decompression](https://github.com/int-brain-lab/mtscomp) ⭐ 48 | 🐛 9 | 🌐 Python | 📅 2025-03-18
@@ -121,20 +121,20 @@ Non recoverable implants:
 
 ## Spike-sorting
 
-* <img src="./images/python.svg" width="3%"> [Kilosort 4](https://github.com/MouseLand/Kilosort) ⭐ 631 | 🐛 18 | 🌐 Python | 📅 2026-09-25, [paper](https://www.nature.com/articles/s41592-024-02232-7)
-* <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases) ⭐ 631 | 🐛 18 | 🌐 Python | 📅 2026-09-25, [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
-* Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594) ⭐ 631 | 🐛 18 | 🌐 Python | 📅 2026-09-25.
+* <img src="./images/python.svg" width="3%"> [Kilosort 4](https://github.com/MouseLand/Kilosort) ⭐ 631 | 🐛 19 | 🌐 Python | 📅 2026-09-25, [paper](https://www.nature.com/articles/s41592-024-02232-7)
+* <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases) ⭐ 631 | 🐛 19 | 🌐 Python | 📅 2026-09-25, [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
+* Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594) ⭐ 631 | 🐛 19 | 🌐 Python | 📅 2026-09-25.
 * <img src="./images/python.svg" width="3%"> [SpikeAgent](https://github.com/SpikeAgent/SpikeAgent) ⭐ 19 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-02 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 * <img src="./images/python.svg" width="3%"> [Python port of Kilosort 2.5](https://github.com/int-brain-lab/pykilosort) ⭐ 15 | 🐛 10 | 🌐 Python | 📅 2026-06-23 , [white paper](https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3)
 
 ## Quality control
 
-* <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy) ⭐ 431 | 🐛 83 | 🌐 Python | 📅 2026-09-26, [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/docs/manualCurationPhyWorkflow.md) ⭐ 252 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc\&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb\&index=11\&ab_channel=MatteoCarandini).
+* <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy) ⭐ 432 | 🐛 83 | 🌐 Python | 📅 2026-09-26, [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/docs/manualCurationPhyWorkflow.md) ⭐ 252 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc\&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb\&index=11\&ab_channel=MatteoCarandini).
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Bombcell: automated quality control and metrics](https://github.com/Julie-Fabre/bombcell) ⭐ 252 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, [wiki](https://github.com/Julie-Fabre/bombcell/wiki) ⭐ 252 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, [talk](https://www.youtube.com/watch?v=8Gauba3KzvM\&list=PLfhWmWntvjl7kljKozClpjS29DoY8V5pB\&index=12) at the annual Neuropixels course about quality control.
 * [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-12-05 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-09-28
 * Merging neurons:
-  * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-09-03, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
+  * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-09-30, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
   * <img src="./images/python.svg" width="3%"> [SLAy](https://github.com/saikoukunt/SLAy) ⭐ 16 | 🐛 7 | 🌐 Python | 📅 2026-09-14, paper [here](https://www.biorxiv.org/content/10.1101/2025.06.20.660590v1)
 
 ## Classifying cell types
@@ -147,7 +147,7 @@ Non recoverable implants:
 
 ## Tracking cells over days
 
-* <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-09-03, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
+* <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-09-30, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
 * <img src="./images/python.svg" width="3%"> [AutoSort](https://github.com/LiuLab-Bioelectronics-Harvard/AutoSort) ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-09-10, [paper](https://doi.org/10.1101/2024.10.14.618046)
 * <img src="./images/matlab.svg" width="3%"> [Neuron\_Tracking](https://github.com/AugustineY07/Neuron_Tracking) ⭐ 10 | 🐛 4 | 🌐 MATLAB | 📅 2024-10-18, paper [here](https://www.biorxiv.org/content/10.1101/2023.08.03.551724v2.full.pdf)
 
@@ -180,4 +180,4 @@ Non recoverable implants:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
