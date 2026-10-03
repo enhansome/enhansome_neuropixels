@@ -41,7 +41,7 @@ Want to add something to this list? Create a pull request, raise a github issue 
 
 ## Images and SVGs of probes
 
-Images and SVGs of probes can be found in [this folder](https://github.com/Julie-Fabre/awesome_neuropixels/tree/main/Neuropixels_images) ⭐ 151 | 🐛 0 | 📅 2025-12-16
+Images and SVGs of probes can be found in [this folder](https://github.com/Julie-Fabre/awesome_neuropixels/tree/main/Neuropixels_images)
 
 ## Courses, talks and videos
 
@@ -57,10 +57,10 @@ Images and SVGs of probes can be found in [this folder](https://github.com/Julie
 
 ## Probe setup, care and sharpening
 
-* [Some tips to seperate shanks from each other](https://github.com/Julie-Fabre/awesome_neuropixels/blob/main/Some_tips_to_seperate_shanks_from_each_other.md) ⭐ 151 | 🐛 0 | 📅 2025-12-16
 * [Sharpening probes](https://github.com/cortex-lab/neuropixels/wiki/Sharpening) ⭐ 97 | 🐛 46 | 🌐 MATLAB | 📅 2024-12-15
 * [Cleaning and caring for probes](https://github.com/cortex-lab/neuropixels/wiki/Probe_care) ⭐ 97 | 🐛 46 | 🌐 MATLAB | 📅 2024-12-15
 * [Slack thread about how to store probes](https://neuropixelsgroup.slack.com/archives/C93JDLKJP/p1699504147935669), and [files for a wall-mounted enclosure](https://github.com/MarinManuel/NeuropixelsEnclosure) ⭐ 2 | 🐛 0 | 📅 2025-08-06
+* [Some tips to seperate shanks from each other](https://github.com/Julie-Fabre/awesome_neuropixels/blob/main/Some_tips_to_seperate_shanks_from_each_other.md)
 
 ## Chronic implants
 
@@ -129,10 +129,10 @@ Non recoverable implants:
 
 ## Quality control
 
-* <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy) ⭐ 432 | 🐛 83 | 🌐 Python | 📅 2026-09-26, [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/docs/manualCurationPhyWorkflow.md) ⭐ 252 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc\&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb\&index=11\&ab_channel=MatteoCarandini).
+* <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy) ⭐ 432 | 🐛 84 | 🌐 Python | 📅 2026-10-02, [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/docs/manualCurationPhyWorkflow.md) ⭐ 252 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc\&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb\&index=11\&ab_channel=MatteoCarandini).
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Bombcell: automated quality control and metrics](https://github.com/Julie-Fabre/bombcell) ⭐ 252 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, [wiki](https://github.com/Julie-Fabre/bombcell/wiki) ⭐ 252 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, [talk](https://www.youtube.com/watch?v=8Gauba3KzvM\&list=PLfhWmWntvjl7kljKozClpjS29DoY8V5pB\&index=12) at the annual Neuropixels course about quality control.
 * [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-12-05 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
-* <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-09-28
+* <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-10-02
 * Merging neurons:
   * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-01, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
   * <img src="./images/python.svg" width="3%"> [SLAy](https://github.com/saikoukunt/SLAy) ⭐ 16 | 🐛 7 | 🌐 Python | 📅 2026-09-14, paper [here](https://www.biorxiv.org/content/10.1101/2025.06.20.660590v1)
@@ -160,7 +160,7 @@ Non recoverable implants:
 ## Trajectory planning
 
 * 3D trajectory planning tools (
-  ⚠️ Note that the 3D tools below use a (scaled) version of the Allen Atlas, and they disagree with other standard atlases like Franklin & Paxinos. More information [here](https://github.com/Julie-Fabre/awesome_neuropixels/blob/main/AtlasScaling.md) ⭐ 151 | 🐛 0 | 📅 2025-12-16 ⚠️ )
+  ⚠️ Note that the 3D tools below use a (scaled) version of the Allen Atlas, and they disagree with other standard atlases like Franklin & Paxinos. More information [here](https://github.com/Julie-Fabre/awesome_neuropixels/blob/main/AtlasScaling.md) ⚠️ )
   * <img src="./images/matlab.svg" width="3%"> [Neuropixels Trajectory Explorer](https://github.com/petersaj/neuropixels_trajectory_explorer) ⭐ 82 | 🐛 0 | 🌐 MATLAB | 📅 2026-08-12
   * <img src="./images/web.svg" width="3%"> [Pinpoint](https://github.com/VirtualBrainLab/Pinpoint) ⭐ 63 | 🐛 14 | 🌐 C# | 📅 2026-08-11
   * <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2024-08-30
@@ -180,4 +180,4 @@ Non recoverable implants:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

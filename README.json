@@ -5,37 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Some tips to seperate shanks from each other",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome Neuropixels resources.",
-            "homepage": null,
-            "id": 700405996,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-12-16T12:58:30Z",
-            "open_issues": 0,
-            "owner": "Julie-Fabre",
-            "repo": "awesome_neuropixels",
-            "stars": 151,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "list",
-              "lists",
-              "neuropixels",
-              "neuroscience"
-            ]
-          },
-          "first_seen": "2026-08-28T13:40:32.990Z"
-        },
-        {
-          "node_type": "item",
           "title": "Sharpening probes",
-          "description": null,
+          "description": "cortex-lab/neuropixels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -56,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Cleaning and caring for probes",
-          "description": null,
+          "description": "cortex-lab/neuropixels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -104,7 +75,7 @@
         {
           "node_type": "item",
           "title": "Some tips to reduce noise",
-          "description": null,
+          "description": "Julie-Fabre/awesome_neuropixels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -186,7 +157,7 @@
         {
           "node_type": "item",
           "title": "+ Guido Meijer's PowerPixels pipeline",
-          "description": null,
+          "description": "NeuroNetMem/PowerPixelsPipeline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -239,7 +210,7 @@
             {
               "node_type": "item",
               "title": "/ Functions to read outputs",
-              "description": null,
+              "description": "jenniferColonell/SpikeGLX_Datafile_Tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -260,7 +231,7 @@
             {
               "node_type": "item",
               "title": "/ Getting a channel map for spike-sorting based on your IMRO",
-              "description": null,
+              "description": "jenniferColonell/SGLXMetaToCoords",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -288,7 +259,7 @@
             {
               "node_type": "item",
               "title": "billkarsh/CatGT",
-              "description": null,
+              "description": "billkarsh/CatGT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -316,7 +287,7 @@
             {
               "node_type": "item",
               "title": "CAR",
-              "description": null,
+              "description": "cortex-lab/spikes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -337,7 +308,7 @@
             {
               "node_type": "item",
               "title": "CatGT",
-              "description": null,
+              "description": "billkarsh/CatGT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -365,7 +336,7 @@
             {
               "node_type": "item",
               "title": "decompression",
-              "description": null,
+              "description": "Julie-Fabre/bombcell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -392,7 +363,7 @@
             {
               "node_type": "item",
               "title": "compression/decompression",
-              "description": null,
+              "description": "int-brain-lab/mtscomp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -478,7 +449,7 @@
         {
           "node_type": "item",
           "title": "Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, github thread",
-          "description": ".",
+          "description": "MouseLand/Kilosort",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,8 +531,8 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-26T11:33:35Z",
-            "open_issues": 83,
+            "last_commit": "2026-10-02T13:16:55Z",
+            "open_issues": 84,
             "owner": "cortex-lab",
             "repo": "phy",
             "stars": 432,
@@ -637,7 +608,7 @@
         {
           "node_type": "item",
           "title": "/ IBL quality metrics",
-          "description": null,
+          "description": "SteinmetzLab/qualityMetrics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -646,7 +617,7 @@
             "id": 554929878,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T21:09:30Z",
+            "last_commit": "2026-10-02T18:36:01Z",
             "open_issues": 1,
             "owner": "SteinmetzLab",
             "repo": "qualityMetrics",
@@ -855,7 +826,7 @@
         {
           "node_type": "item",
           "title": "NeuroPyxels",
-          "description": null,
+          "description": "m-beau/NeuroPyxels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -879,7 +850,7 @@
         {
           "node_type": "item",
           "title": "Spikes",
-          "description": null,
+          "description": "cortex-lab/spikes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -900,7 +871,7 @@
         {
           "node_type": "item",
           "title": "neuropixel-utils",
-          "description": null,
+          "description": "djoshea/neuropixel-utils",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -927,7 +898,7 @@
         {
           "node_type": "item",
           "title": "For 3D histology (cleared whole brains, brainsaw-ed brains) and/or classical slice-by-slice histology (2D) DeepSlice",
-          "description": null,
+          "description": "PolarBean/DeepSlice",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -959,7 +930,7 @@
         {
           "node_type": "item",
           "title": "For classical slice-by-slice histology (2D) AP histology",
-          "description": null,
+          "description": "petersaj/AP_histology",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -980,7 +951,7 @@
         {
           "node_type": "item",
           "title": "HERBS",
-          "description": null,
+          "description": "Whitlock-Group/HERBS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1003,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:50:25.482Z",
+    "last_updated": "2026-10-03T05:16:03.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
