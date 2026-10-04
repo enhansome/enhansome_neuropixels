@@ -483,11 +483,11 @@
             "id": 1078500279,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2026-08-02T14:42:32Z",
+            "last_commit": "2026-10-03T13:31:25Z",
             "open_issues": 0,
             "owner": "SpikeAgent",
             "repo": "SpikeAgent",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:26:54.501Z",
+    "last_updated": "2026-10-04T07:39:43.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
