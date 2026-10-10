@@ -349,7 +349,7 @@
                 "open_issues": 6,
                 "owner": "Julie-Fabre",
                 "repo": "bombcell",
-                "stars": 252,
+                "stars": 253,
                 "topics": [
                   "curation",
                   "electrophysiology",
@@ -531,7 +531,7 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-08T13:55:54Z",
+            "last_commit": "2026-10-09T14:57:55Z",
             "open_issues": 82,
             "owner": "cortex-lab",
             "repo": "phy",
@@ -560,7 +560,7 @@
             "open_issues": 6,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 252,
+            "stars": 253,
             "topics": [
               "curation",
               "electrophysiology",
@@ -697,7 +697,7 @@
             "open_issues": 6,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 252,
+            "stars": 253,
             "topics": [
               "curation",
               "electrophysiology",
@@ -911,7 +911,7 @@
             "open_issues": 8,
             "owner": "PolarBean",
             "repo": "DeepSlice",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "automation",
               "brain-imaging",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T08:19:36.191Z",
+    "last_updated": "2026-10-10T07:59:15.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
