@@ -129,7 +129,7 @@ Non recoverable implants:
 
 ## Quality control
 
-* <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy) ⭐ 432 | 🐛 82 | 🌐 Python | 📅 2026-10-09, [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/docs/manualCurationPhyWorkflow.md) ⭐ 253 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc\&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb\&index=11\&ab_channel=MatteoCarandini).
+* <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy) ⭐ 433 | 🐛 82 | 🌐 Python | 📅 2026-10-09, [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/docs/manualCurationPhyWorkflow.md) ⭐ 253 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc\&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb\&index=11\&ab_channel=MatteoCarandini).
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Bombcell: automated quality control and metrics](https://github.com/Julie-Fabre/bombcell) ⭐ 253 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, [wiki](https://github.com/Julie-Fabre/bombcell/wiki) ⭐ 253 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, [talk](https://www.youtube.com/watch?v=8Gauba3KzvM\&list=PLfhWmWntvjl7kljKozClpjS29DoY8V5pB\&index=12) at the annual Neuropixels course about quality control.
 * [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-12-05 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-10-07
@@ -153,7 +153,7 @@ Non recoverable implants:
 
 ## Loading and plotting data
 
-* <img src="./images/python.svg" width="3%"> [NeuroPyxels](https://github.com/m-beau/NeuroPyxels) ⭐ 157 | 🐛 8 | 🌐 Python | 📅 2026-08-19
+* <img src="./images/python.svg" width="3%"> [NeuroPyxels](https://github.com/m-beau/NeuroPyxels) ⭐ 158 | 🐛 8 | 🌐 Python | 📅 2026-08-19
 * <img src="./images/matlab.svg" width="3%"> [Spikes](https://github.com/cortex-lab/spikes) ⭐ 84 | 🐛 12 | 🌐 MATLAB | 📅 2024-02-05
 * <img src="./images/matlab.svg" width="3%"> [neuropixel-utils](https://github.com/djoshea/neuropixel-utils/) ⭐ 47 | 🐛 2 | 🌐 MATLAB | 📅 2026-08-20
 
@@ -174,10 +174,10 @@ Non recoverable implants:
 ## Histology
 
 * <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains)   and/or classical slice-by-slice histology (2D)  [DeepSlice](https://github.com/PolarBean/DeepSlice) ⭐ 133 | 🐛 8 | 🌐 Python | 📅 2026-09-08
-* <img src="./images/matlab.svg" width="3%"> For classical slice-by-slice histology (2D) [AP histology](https://github.com/petersaj/AP_histology) ⭐ 80 | 🐛 2 | 🌐 MATLAB | 📅 2026-09-23
+* <img src="./images/matlab.svg" width="3%"> For classical slice-by-slice histology (2D) [AP histology](https://github.com/petersaj/AP_histology) ⭐ 81 | 🐛 2 | 🌐 MATLAB | 📅 2026-09-23
 * <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2024-08-30
 * <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains) [Brainglobe](https://brainglobe.info/index.html)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

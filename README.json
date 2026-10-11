@@ -535,7 +535,7 @@
             "open_issues": 82,
             "owner": "cortex-lab",
             "repo": "phy",
-            "stars": 432,
+            "stars": 433,
             "topics": [
               "data-analysis",
               "electrophysiology",
@@ -839,7 +839,7 @@
             "open_issues": 8,
             "owner": "m-beau",
             "repo": "NeuroPyxels",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "electrophysiology",
               "python"
@@ -943,7 +943,7 @@
             "open_issues": 2,
             "owner": "petersaj",
             "repo": "AP_histology",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:59:15.345Z",
+    "last_updated": "2026-10-11T08:09:10.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
