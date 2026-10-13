@@ -33,7 +33,7 @@ Want to add something to this list? Create a pull request, raise a github issue 
 ## Neuropixels papers and manuals
 
 * [Neuropixels 1.0](https://www.nature.com/articles/nature24636/), [manual](https://www.neuropixels.org/_files/ugd/832f20_ba7f3e9e639b49809458cf64d76abdcc.pdf)
-* [Neuropixels 2.0](https://www.science.org/doi/10.1126/science.abf4588), [manual](https://github.com/Julie-Fabre/awesome-neuropixels/blob/master/Neuropixels%202.0%20User%20Manual%20V1.0.pdf) ⭐ 151 | 🐛 0 | 📅 2025-12-16
+* [Neuropixels 2.0](https://www.science.org/doi/10.1126/science.abf4588), [manual](https://github.com/Julie-Fabre/awesome-neuropixels/blob/master/Neuropixels%202.0%20User%20Manual%20V1.0.pdf) ⭐ 152 | 🐛 0 | 📅 2025-12-16
 * [Neuropixels ultra](https://www.biorxiv.org/content/10.1101/2023.08.23.554527v2)
 * [Neuropixels for NHP](https://www.biorxiv.org/content/10.1101/2023.02.01.526664v3)
 * [Neuropixels for humans](https://www.nature.com/articles/s41596-023-00871-2)
@@ -87,7 +87,7 @@ Non recoverable implants:
 
 ## Data acquisition
 
-* [Some tips to reduce noise](https://github.com/Julie-Fabre/awesome-neuropixels/blob/main/Some_tips_to_reduce_noise.md) ⭐ 151 | 🐛 0 | 📅 2025-12-16
+* [Some tips to reduce noise](https://github.com/Julie-Fabre/awesome-neuropixels/blob/main/Some_tips_to_reduce_noise.md) ⭐ 152 | 🐛 0 | 📅 2025-12-16
 * [Synchronizing data streams](https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html), optional Arduino code for applying external sync pulses [here](https://github.com/cortex-lab/neuropixels/wiki/Synchronization) ⭐ 97 | 🐛 46 | 🌐 MATLAB | 📅 2024-12-15.
 * [SpikeGLX](https://billkarsh.github.io/SpikeGLX/)
 * [Open Ephys GUI](https://open-ephys.org/gui)
@@ -132,9 +132,9 @@ Non recoverable implants:
 * <img src="./images/terminal.svg" width="5%"> Manual curation GUI: [Phy](https://github.com/cortex-lab/phy) ⭐ 433 | 🐛 82 | 🌐 Python | 📅 2026-10-09, [docs](https://phy.readthedocs.io/en/latest/). Example workflow [here](https://github.com/Julie-Fabre/bombcell/blob/main/docs/manualCurationPhyWorkflow.md) ⭐ 253 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, Video demo [here](https://www.youtube.com/watch?v=czdwIr-v5Yc\&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb\&index=11\&ab_channel=MatteoCarandini).
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Bombcell: automated quality control and metrics](https://github.com/Julie-Fabre/bombcell) ⭐ 253 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, [wiki](https://github.com/Julie-Fabre/bombcell/wiki) ⭐ 253 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-09-30, [talk](https://www.youtube.com/watch?v=8Gauba3KzvM\&list=PLfhWmWntvjl7kljKozClpjS29DoY8V5pB\&index=12) at the annual Neuropixels course about quality control.
 * [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-12-05 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
-* <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-10-07
+* <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-10-12
 * Merging neurons:
-  * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-11, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
+  * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-12, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
   * <img src="./images/python.svg" width="3%"> [SLAy](https://github.com/saikoukunt/SLAy) ⭐ 16 | 🐛 7 | 🌐 Python | 📅 2026-09-14, paper [here](https://www.biorxiv.org/content/10.1101/2025.06.20.660590v1)
 
 ## Classifying cell types
@@ -147,7 +147,7 @@ Non recoverable implants:
 
 ## Tracking cells over days
 
-* <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-11, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
+* <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-12, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
 * <img src="./images/python.svg" width="3%"> [AutoSort](https://github.com/LiuLab-Bioelectronics-Harvard/AutoSort) ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-09-10, [paper](https://doi.org/10.1101/2024.10.14.618046)
 * <img src="./images/matlab.svg" width="3%"> [Neuron\_Tracking](https://github.com/AugustineY07/Neuron_Tracking) ⭐ 10 | 🐛 4 | 🌐 MATLAB | 📅 2024-10-18, paper [here](https://www.biorxiv.org/content/10.1101/2023.08.03.551724v2.full.pdf)
 
@@ -180,4 +180,4 @@ Non recoverable implants:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

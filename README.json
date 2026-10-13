@@ -88,7 +88,7 @@
             "open_issues": 0,
             "owner": "Julie-Fabre",
             "repo": "awesome_neuropixels",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "awesome",
               "awesome-list",
@@ -617,8 +617,8 @@
             "id": 554929878,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T17:49:37Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-12T17:49:06Z",
+            "open_issues": 2,
             "owner": "SteinmetzLab",
             "repo": "qualityMetrics",
             "stars": 4,
@@ -643,7 +643,7 @@
                 "id": 572104021,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-11T17:35:51Z",
+                "last_commit": "2026-10-12T09:45:48Z",
                 "open_issues": 1,
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
@@ -755,7 +755,7 @@
             "id": 572104021,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T17:35:51Z",
+            "last_commit": "2026-10-12T09:45:48Z",
             "open_issues": 1,
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T08:25:56.354Z",
+    "last_updated": "2026-10-13T08:50:20.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
@@ -986,7 +986,7 @@
       "open_issues": 0,
       "owner": "Julie-Fabre",
       "repo": "awesome_neuropixels",
-      "stars": 151,
+      "stars": 152,
       "topics": [
         "awesome",
         "awesome-list",
