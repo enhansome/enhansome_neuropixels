@@ -412,7 +412,7 @@
             "open_issues": 19,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 631,
+            "stars": 630,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -437,7 +437,7 @@
             "open_issues": 19,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 631,
+            "stars": 630,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 631,
+            "stars": 630,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -531,11 +531,11 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T14:57:55Z",
-            "open_issues": 82,
+            "last_commit": "2026-10-13T12:13:56Z",
+            "open_issues": 83,
             "owner": "cortex-lab",
             "repo": "phy",
-            "stars": 433,
+            "stars": 434,
             "topics": [
               "data-analysis",
               "electrophysiology",
@@ -643,7 +643,7 @@
                 "id": 572104021,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T09:45:48Z",
+                "last_commit": "2026-10-13T17:57:29Z",
                 "open_issues": 1,
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
@@ -755,7 +755,7 @@
             "id": 572104021,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T09:45:48Z",
+            "last_commit": "2026-10-13T17:57:29Z",
             "open_issues": 1,
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T08:50:20.497Z",
+    "last_updated": "2026-10-14T06:59:37.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
