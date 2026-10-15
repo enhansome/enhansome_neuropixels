@@ -33,7 +33,7 @@ Want to add something to this list? Create a pull request, raise a github issue 
 ## Neuropixels papers and manuals
 
 * [Neuropixels 1.0](https://www.nature.com/articles/nature24636/), [manual](https://www.neuropixels.org/_files/ugd/832f20_ba7f3e9e639b49809458cf64d76abdcc.pdf)
-* [Neuropixels 2.0](https://www.science.org/doi/10.1126/science.abf4588), [manual](https://github.com/Julie-Fabre/awesome-neuropixels/blob/master/Neuropixels%202.0%20User%20Manual%20V1.0.pdf) ⭐ 152 | 🐛 0 | 📅 2025-12-16
+* [Neuropixels 2.0](https://www.science.org/doi/10.1126/science.abf4588), [manual](https://github.com/Julie-Fabre/awesome-neuropixels/blob/master/Neuropixels%202.0%20User%20Manual%20V1.0.pdf) ⭐ 153 | 🐛 0 | 📅 2025-12-16
 * [Neuropixels ultra](https://www.biorxiv.org/content/10.1101/2023.08.23.554527v2)
 * [Neuropixels for NHP](https://www.biorxiv.org/content/10.1101/2023.02.01.526664v3)
 * [Neuropixels for humans](https://www.nature.com/articles/s41596-023-00871-2)
@@ -87,7 +87,7 @@ Non recoverable implants:
 
 ## Data acquisition
 
-* [Some tips to reduce noise](https://github.com/Julie-Fabre/awesome-neuropixels/blob/main/Some_tips_to_reduce_noise.md) ⭐ 152 | 🐛 0 | 📅 2025-12-16
+* [Some tips to reduce noise](https://github.com/Julie-Fabre/awesome-neuropixels/blob/main/Some_tips_to_reduce_noise.md) ⭐ 153 | 🐛 0 | 📅 2025-12-16
 * [Synchronizing data streams](https://open-ephys.github.io/gui-docs/Tutorials/Data-Synchronization.html), optional Arduino code for applying external sync pulses [here](https://github.com/cortex-lab/neuropixels/wiki/Synchronization) ⭐ 97 | 🐛 46 | 🌐 MATLAB | 📅 2024-12-15.
 * [SpikeGLX](https://billkarsh.github.io/SpikeGLX/)
 * [Open Ephys GUI](https://open-ephys.org/gui)
@@ -97,7 +97,7 @@ Non recoverable implants:
 
 ## General frameworks that incorporate many of the steps below
 
-* <img src="./images/python.svg" width="3%"> [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting) ⭐ 130 | 🐛 19 | 🌐 Python | 📅 2024-08-18, [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting) ⭐ 74 | 🐛 4 | 🌐 Python | 📅 2026-04-22
+* <img src="./images/python.svg" width="3%"> [Allen Institute pipeline](https://github.com/AllenInstitute/ecephys_spike_sorting) ⭐ 131 | 🐛 19 | 🌐 Python | 📅 2024-08-18, [fork specifically tailored to spikeGLX data](https://github.com/jenniferColonell/ecephys_spike_sorting) ⭐ 74 | 🐛 4 | 🌐 Python | 📅 2026-04-22
 * <img src="./images/python.svg" width="3%"> + <img src="./images/matlab.svg" width="3%"> [Guido Meijer's PowerPixels pipeline](https://github.com/NeuroNetMem/PowerPixelsPipeline) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2026-09-25
 * <img src="./images/python.svg" width="3%"> [SpikeInterface](https://github.com/SpikeInterface)
 
@@ -121,9 +121,9 @@ Non recoverable implants:
 
 ## Spike-sorting
 
-* <img src="./images/python.svg" width="3%"> [Kilosort 4](https://github.com/MouseLand/Kilosort) ⭐ 630 | 🐛 19 | 🌐 Python | 📅 2026-09-25, [paper](https://www.nature.com/articles/s41592-024-02232-7)
-* <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases) ⭐ 630 | 🐛 19 | 🌐 Python | 📅 2026-09-25, [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
-* Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594) ⭐ 630 | 🐛 19 | 🌐 Python | 📅 2026-09-25.
+* <img src="./images/python.svg" width="3%"> [Kilosort 4](https://github.com/MouseLand/Kilosort) ⭐ 631 | 🐛 19 | 🌐 Python | 📅 2026-09-25, [paper](https://www.nature.com/articles/s41592-024-02232-7)
+* <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases) ⭐ 631 | 🐛 19 | 🌐 Python | 📅 2026-09-25, [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
+* Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594) ⭐ 631 | 🐛 19 | 🌐 Python | 📅 2026-09-25.
 * <img src="./images/python.svg" width="3%"> [SpikeAgent](https://github.com/SpikeAgent/SpikeAgent) ⭐ 20 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-04 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 * <img src="./images/python.svg" width="3%"> [Python port of Kilosort 2.5](https://github.com/int-brain-lab/pykilosort) ⭐ 15 | 🐛 10 | 🌐 Python | 📅 2026-06-23 , [white paper](https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3)
 
@@ -134,7 +134,7 @@ Non recoverable implants:
 * [SpikeAgent](https://github.com/LiuLab-Bioelectronics-Harvard/SpikeAgent) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2025-12-05 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [IBL quality metrics](https://github.com/SteinmetzLab/qualityMetrics) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-10-12
 * Merging neurons:
-  * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-13, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
+  * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-13, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
   * <img src="./images/python.svg" width="3%"> [SLAy](https://github.com/saikoukunt/SLAy) ⭐ 16 | 🐛 7 | 🌐 Python | 📅 2026-09-14, paper [here](https://www.biorxiv.org/content/10.1101/2025.06.20.660590v1)
 
 ## Classifying cell types
@@ -147,7 +147,7 @@ Non recoverable implants:
 
 ## Tracking cells over days
 
-* <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-13, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
+* <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [UnitMatch](https://github.com/EnnyvanBeest/UnitMatch) ⭐ 81 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-13, paper [here](https://www.nature.com/articles/s41592-024-02440-1)
 * <img src="./images/python.svg" width="3%"> [AutoSort](https://github.com/LiuLab-Bioelectronics-Harvard/AutoSort) ⭐ 12 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-09-10, [paper](https://doi.org/10.1101/2024.10.14.618046)
 * <img src="./images/matlab.svg" width="3%"> [Neuron\_Tracking](https://github.com/AugustineY07/Neuron_Tracking) ⭐ 10 | 🐛 4 | 🌐 MATLAB | 📅 2024-10-18, paper [here](https://www.biorxiv.org/content/10.1101/2023.08.03.551724v2.full.pdf)
 
@@ -155,7 +155,7 @@ Non recoverable implants:
 
 * <img src="./images/python.svg" width="3%"> [NeuroPyxels](https://github.com/m-beau/NeuroPyxels) ⭐ 158 | 🐛 8 | 🌐 Python | 📅 2026-08-19
 * <img src="./images/matlab.svg" width="3%"> [Spikes](https://github.com/cortex-lab/spikes) ⭐ 84 | 🐛 12 | 🌐 MATLAB | 📅 2024-02-05
-* <img src="./images/matlab.svg" width="3%"> [neuropixel-utils](https://github.com/djoshea/neuropixel-utils/) ⭐ 47 | 🐛 2 | 🌐 MATLAB | 📅 2026-08-20
+* <img src="./images/matlab.svg" width="3%"> [neuropixel-utils](https://github.com/djoshea/neuropixel-utils/) ⭐ 48 | 🐛 2 | 🌐 MATLAB | 📅 2026-08-20
 
 ## Trajectory planning
 
@@ -173,11 +173,11 @@ Non recoverable implants:
 
 ## Histology
 
-* <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains)   and/or classical slice-by-slice histology (2D)  [DeepSlice](https://github.com/PolarBean/DeepSlice) ⭐ 133 | 🐛 8 | 🌐 Python | 📅 2026-09-08
+* <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains)   and/or classical slice-by-slice histology (2D)  [DeepSlice](https://github.com/PolarBean/DeepSlice) ⭐ 134 | 🐛 9 | 🌐 Python | 📅 2026-09-08
 * <img src="./images/matlab.svg" width="3%"> For classical slice-by-slice histology (2D) [AP histology](https://github.com/petersaj/AP_histology) ⭐ 81 | 🐛 2 | 🌐 MATLAB | 📅 2026-09-23
 * <img src="./images/python.svg" width="3%"> [HERBS](https://github.com/Whitlock-Group/HERBS) ⭐ 58 | 🐛 2 | 🌐 Python | 📅 2024-08-30
 * <img src="./images/python.svg" width="3%"> For 3D histology (cleared whole brains, brainsaw-ed brains) [Brainglobe](https://brainglobe.info/index.html)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
