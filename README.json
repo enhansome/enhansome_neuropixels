@@ -268,7 +268,7 @@
                 "id": 458109231,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-01T21:03:46Z",
+                "last_commit": "2026-10-15T20:13:13Z",
                 "open_issues": 0,
                 "owner": "billkarsh",
                 "repo": "CatGT",
@@ -317,7 +317,7 @@
                 "id": 458109231,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-01T21:03:46Z",
+                "last_commit": "2026-10-15T20:13:13Z",
                 "open_issues": 0,
                 "owner": "billkarsh",
                 "repo": "CatGT",
@@ -349,7 +349,7 @@
                 "open_issues": 6,
                 "owner": "Julie-Fabre",
                 "repo": "bombcell",
-                "stars": 253,
+                "stars": 254,
                 "topics": [
                   "curation",
                   "electrophysiology",
@@ -412,7 +412,7 @@
             "open_issues": 19,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 631,
+            "stars": 632,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -437,7 +437,7 @@
             "open_issues": 19,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 631,
+            "stars": 632,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -462,7 +462,7 @@
             "open_issues": 19,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 631,
+            "stars": 632,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -560,7 +560,7 @@
             "open_issues": 6,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 253,
+            "stars": 254,
             "topics": [
               "curation",
               "electrophysiology",
@@ -697,7 +697,7 @@
             "open_issues": 6,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 253,
+            "stars": 254,
             "topics": [
               "curation",
               "electrophysiology",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T06:50:50.211Z",
+    "last_updated": "2026-10-16T06:38:57.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
