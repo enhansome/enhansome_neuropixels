@@ -345,7 +345,7 @@
                 "id": 361686687,
                 "language": "Jupyter Notebook",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T02:06:17Z",
+                "last_commit": "2026-10-18T03:24:31Z",
                 "open_issues": 6,
                 "owner": "Julie-Fabre",
                 "repo": "bombcell",
@@ -556,7 +556,7 @@
             "id": 361686687,
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T02:06:17Z",
+            "last_commit": "2026-10-18T03:24:31Z",
             "open_issues": 6,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
@@ -693,7 +693,7 @@
             "id": 361686687,
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T02:06:17Z",
+            "last_commit": "2026-10-18T03:24:31Z",
             "open_issues": 6,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:27:47.003Z",
+    "last_updated": "2026-10-18T06:52:54.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
