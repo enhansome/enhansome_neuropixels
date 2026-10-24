@@ -643,7 +643,7 @@
                 "id": 572104021,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T21:09:37Z",
+                "last_commit": "2026-10-23T17:28:15Z",
                 "open_issues": 0,
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
@@ -755,7 +755,7 @@
             "id": 572104021,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T21:09:37Z",
+            "last_commit": "2026-10-23T17:28:15Z",
             "open_issues": 0,
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T06:50:31.577Z",
+    "last_updated": "2026-10-24T06:47:11.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
