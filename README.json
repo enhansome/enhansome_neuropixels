@@ -531,7 +531,7 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-25T07:14:16Z",
+            "last_commit": "2026-10-26T18:55:04Z",
             "open_issues": 86,
             "owner": "cortex-lab",
             "repo": "phy",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T07:19:06.884Z",
+    "last_updated": "2026-10-27T07:10:53.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
