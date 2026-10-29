@@ -531,7 +531,7 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T16:38:39Z",
+            "last_commit": "2026-10-28T15:59:54Z",
             "open_issues": 86,
             "owner": "cortex-lab",
             "repo": "phy",
@@ -643,7 +643,7 @@
                 "id": 572104021,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T11:04:16Z",
+                "last_commit": "2026-10-28T19:13:34Z",
                 "open_issues": 0,
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
@@ -755,7 +755,7 @@
             "id": 572104021,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T11:04:16Z",
+            "last_commit": "2026-10-28T19:13:34Z",
             "open_issues": 0,
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T07:49:53.819Z",
+    "last_updated": "2026-10-29T07:55:03.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
