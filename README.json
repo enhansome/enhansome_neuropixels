@@ -349,7 +349,7 @@
                 "open_issues": 5,
                 "owner": "Julie-Fabre",
                 "repo": "bombcell",
-                "stars": 255,
+                "stars": 256,
                 "topics": [
                   "curation",
                   "electrophysiology",
@@ -505,7 +505,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-06-23T12:00:42Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "int-brain-lab",
             "repo": "ibl-sorter",
             "stars": 15,
@@ -531,7 +531,7 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-30T15:50:56Z",
+            "last_commit": "2026-10-31T15:48:26Z",
             "open_issues": 86,
             "owner": "cortex-lab",
             "repo": "phy",
@@ -560,7 +560,7 @@
             "open_issues": 5,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 255,
+            "stars": 256,
             "topics": [
               "curation",
               "electrophysiology",
@@ -643,7 +643,7 @@
                 "id": 572104021,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T11:17:05Z",
+                "last_commit": "2026-10-31T21:26:14Z",
                 "open_issues": 0,
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
@@ -697,7 +697,7 @@
             "open_issues": 5,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 255,
+            "stars": 256,
             "topics": [
               "curation",
               "electrophysiology",
@@ -755,7 +755,7 @@
             "id": 572104021,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T11:17:05Z",
+            "last_commit": "2026-10-31T21:26:14Z",
             "open_issues": 0,
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T07:52:54.126Z",
+    "last_updated": "2026-11-01T08:34:51.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
