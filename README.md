@@ -106,7 +106,7 @@ Non recoverable implants:
 * Open Ephys: <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [matlab](https://github.com/open-ephys/open-ephys-matlab-tools) ⭐ 21 | 🐛 11 | 🌐 MATLAB | 📅 2024-09-25, [python](https://github.com/open-ephys/open-ephys-python-tools) ⭐ 48 | 🐛 21 | 🌐 Python | 📅 2025-11-07
 * SpikeGLX:
   * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Functions to read outputs](https://github.com/jenniferColonell/SpikeGLX_Datafile_Tools) ⭐ 16 | 🐛 0 | 🌐 MATLAB | 📅 2026-06-24
-  * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Getting a channel map for spike-sorting based on your IMRO](https://github.com/jenniferColonell/SGLXMetaToCoords) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2023-07-19
+  * <img src="./images/matlab.svg" width="3%"> / <img src="./images/python.svg" width="3%"> [Getting a channel map for spike-sorting based on your IMRO](https://github.com/jenniferColonell/SGLXMetaToCoords) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2023-07-19
 * Applying a phase shift to Neuropixels channels (to correct asynchronous sampling across ADCs):
   * <img src="./images/binary-file.svg" width="3%"> [code](https://github.com/billkarsh/CatGT) ⭐ 16 | 🐛 0 | 🌐 C++ | 📅 2026-11-04
   * details [here](https://billkarsh.github.io/SpikeGLX/help/catgt_tshift/catgt_tshift/)
@@ -121,9 +121,9 @@ Non recoverable implants:
 
 ## Spike-sorting
 
-* <img src="./images/python.svg" width="3%"> [Kilosort 4](https://github.com/MouseLand/Kilosort) ⭐ 637 | 🐛 26 | 🌐 Python | 📅 2026-09-25, [paper](https://www.nature.com/articles/s41592-024-02232-7)
-* <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases) ⭐ 637 | 🐛 26 | 🌐 Python | 📅 2026-09-25, [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
-* Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594) ⭐ 637 | 🐛 26 | 🌐 Python | 📅 2026-09-25.
+* <img src="./images/python.svg" width="3%"> [Kilosort 4](https://github.com/MouseLand/Kilosort) ⭐ 638 | 🐛 26 | 🌐 Python | 📅 2026-09-25, [paper](https://www.nature.com/articles/s41592-024-02232-7)
+* <img src="./images/matlab.svg" width="3%"> [Kilosort 1/2/2.5/3 (archived)](https://github.com/MouseLand/Kilosort/releases) ⭐ 638 | 🐛 26 | 🌐 Python | 📅 2026-09-25, [Kilosort 1 paper](https://www.biorxiv.org/content/10.1101/061481v1)
+* Potential errors (spikes missing in chunks) with Kilosort versions before 09 April 2024, [github thread](https://github.com/MouseLand/Kilosort/issues/594) ⭐ 638 | 🐛 26 | 🌐 Python | 📅 2026-09-25.
 * <img src="./images/python.svg" width="3%"> [SpikeAgent](https://github.com/SpikeAgent/SpikeAgent) ⭐ 19 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-10-04 (Spike sorting AI agent), [paper](https://doi.org/10.1101/2025.02.11.637754)
 * <img src="./images/python.svg" width="3%"> [Python port of Kilosort 2.5](https://github.com/int-brain-lab/pykilosort) ⭐ 15 | 🐛 11 | 🌐 Python | 📅 2026-06-23 , [white paper](https://figshare.com/articles/online_resource/Spike_sorting_pipeline_for_the_International_Brain_Laboratory/19705522/3)
 
@@ -180,4 +180,4 @@ Non recoverable implants:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

@@ -244,7 +244,7 @@
                 "open_issues": 2,
                 "owner": "jenniferColonell",
                 "repo": "SGLXMetaToCoords",
-                "stars": 13,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
@@ -412,7 +412,7 @@
             "open_issues": 26,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 637,
+            "stars": 638,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -437,7 +437,7 @@
             "open_issues": 26,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 637,
+            "stars": 638,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -462,7 +462,7 @@
             "open_issues": 26,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 637,
+            "stars": 638,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T09:05:09.790Z",
+    "last_updated": "2026-11-11T08:44:34.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
