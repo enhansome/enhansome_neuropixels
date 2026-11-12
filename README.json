@@ -144,7 +144,7 @@
             "open_issues": 19,
             "owner": "AllenInstitute",
             "repo": "ecephys_spike_sorting",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "analysis-pipeline",
               "electrophysiology",
@@ -346,10 +346,10 @@
                 "language": "Jupyter Notebook",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-19T22:36:03Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "Julie-Fabre",
                 "repo": "bombcell",
-                "stars": 259,
+                "stars": 261,
                 "topics": [
                   "curation",
                   "electrophysiology",
@@ -557,10 +557,10 @@
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
             "last_commit": "2026-10-19T22:36:03Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 259,
+            "stars": 261,
             "topics": [
               "curation",
               "electrophysiology",
@@ -694,10 +694,10 @@
             "language": "Jupyter Notebook",
             "license": "GPL-3.0",
             "last_commit": "2026-10-19T22:36:03Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 259,
+            "stars": 261,
             "topics": [
               "curation",
               "electrophysiology",
@@ -908,7 +908,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T09:41:03Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "PolarBean",
             "repo": "DeepSlice",
             "stars": 134,
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T08:44:34.385Z",
+    "last_updated": "2026-11-12T09:05:51.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
