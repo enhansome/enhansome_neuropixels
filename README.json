@@ -531,8 +531,8 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-12T13:19:17Z",
-            "open_issues": 82,
+            "last_commit": "2026-11-13T13:14:19Z",
+            "open_issues": 83,
             "owner": "cortex-lab",
             "repo": "phy",
             "stars": 438,
@@ -647,7 +647,7 @@
                 "open_issues": 0,
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
-                "stars": 82,
+                "stars": 83,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
@@ -759,7 +759,7 @@
             "open_issues": 0,
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
-            "stars": 82,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-28T13:40:32.990Z"
@@ -907,8 +907,8 @@
             "id": 274122364,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T13:20:57Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-13T11:40:04Z",
+            "open_issues": 9,
             "owner": "PolarBean",
             "repo": "DeepSlice",
             "stars": 135,
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T08:59:03.044Z",
+    "last_updated": "2026-11-14T08:27:02.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
