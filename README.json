@@ -412,7 +412,7 @@
             "open_issues": 26,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 639,
+            "stars": 640,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -437,7 +437,7 @@
             "open_issues": 26,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 639,
+            "stars": 640,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -462,7 +462,7 @@
             "open_issues": 26,
             "owner": "MouseLand",
             "repo": "Kilosort",
-            "stars": 639,
+            "stars": 640,
             "topics": [
               "electrophysiology",
               "neuroscience",
@@ -617,7 +617,7 @@
             "id": 554929878,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T17:16:05Z",
+            "last_commit": "2026-11-16T02:53:23Z",
             "open_issues": 2,
             "owner": "SteinmetzLab",
             "repo": "qualityMetrics",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T08:43:51.910Z",
+    "last_updated": "2026-11-16T08:54:44.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
