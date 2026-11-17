@@ -349,7 +349,7 @@
                 "open_issues": 6,
                 "owner": "Julie-Fabre",
                 "repo": "bombcell",
-                "stars": 262,
+                "stars": 263,
                 "topics": [
                   "curation",
                   "electrophysiology",
@@ -531,7 +531,7 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-13T13:14:19Z",
+            "last_commit": "2026-11-17T09:51:01Z",
             "open_issues": 83,
             "owner": "cortex-lab",
             "repo": "phy",
@@ -560,7 +560,7 @@
             "open_issues": 6,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "curation",
               "electrophysiology",
@@ -617,7 +617,7 @@
             "id": 554929878,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T02:53:23Z",
+            "last_commit": "2026-11-16T19:34:47Z",
             "open_issues": 2,
             "owner": "SteinmetzLab",
             "repo": "qualityMetrics",
@@ -697,7 +697,7 @@
             "open_issues": 6,
             "owner": "Julie-Fabre",
             "repo": "bombcell",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "curation",
               "electrophysiology",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:54:44.188Z",
+    "last_updated": "2026-11-17T09:59:41.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
