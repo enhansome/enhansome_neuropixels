@@ -272,7 +272,7 @@
                 "open_issues": 0,
                 "owner": "billkarsh",
                 "repo": "CatGT",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
@@ -321,7 +321,7 @@
                 "open_issues": 0,
                 "owner": "billkarsh",
                 "repo": "CatGT",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:40:32.990Z"
@@ -409,7 +409,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-25T23:54:42Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "MouseLand",
             "repo": "Kilosort",
             "stars": 640,
@@ -434,7 +434,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-25T23:54:42Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "MouseLand",
             "repo": "Kilosort",
             "stars": 640,
@@ -459,7 +459,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-25T23:54:42Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "MouseLand",
             "repo": "Kilosort",
             "stars": 640,
@@ -531,7 +531,7 @@
             "id": 22426819,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T22:26:09Z",
+            "last_commit": "2026-11-20T13:14:14Z",
             "open_issues": 84,
             "owner": "cortex-lab",
             "repo": "phy",
@@ -643,7 +643,7 @@
                 "id": 572104021,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T13:49:40Z",
+                "last_commit": "2026-11-20T14:08:09Z",
                 "open_issues": 0,
                 "owner": "EnnyvanBeest",
                 "repo": "UnitMatch",
@@ -755,7 +755,7 @@
             "id": 572104021,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T13:49:40Z",
+            "last_commit": "2026-11-20T14:08:09Z",
             "open_issues": 0,
             "owner": "EnnyvanBeest",
             "repo": "UnitMatch",
@@ -974,7 +974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T09:32:06.350Z",
+    "last_updated": "2026-11-21T09:04:09.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Neuropixels resources.",
